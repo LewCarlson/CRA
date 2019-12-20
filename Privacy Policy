@@ -13,8 +13,9 @@ names or initials as part of the data set. This will typically be the Team membe
 
 This Application records information about Golf courses. This includes all data the user imported from 
 Mapping Applications and any entered by the user. This App can import and export very specific position and 
-rating information from/to an external map program (like Google Earth). If it is to be used the user must 
-install the map program independent of this Application and configure it to start on a file type of .kml.
+rating information from/to an external map program (like Google Earth). If an external map program is to be
+used, the user must install the map program independent of this Application and configure it to start on a 
+file type of .kml.
 
 When you contact us for help your name, email address, and all other information you supply will be saved. 
 We may also use the information you provided to contact you from time to time to provide the results of your 
@@ -53,7 +54,7 @@ You may use the standard uninstall processes as may be available as part of your
 mobile application marketplace or network.  
 
 Data Retention Policy, Managing Your Information:
-The Golf Course Rating Authority in the area of use will retain User Provided data and Automatically Collected 
+The Golf Course Rating Authority in the area of use may retain User Provided data and Automatically Collected 
 information for as long as necessary. Golf Courses are Rated when first built, after 5 years and then after 
 every 10 years.
 
