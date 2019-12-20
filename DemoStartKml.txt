@@ -1,0 +1,2757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SummitV310 Rating</name>
+	<LookAt>
+		<longitude>-115.3479269906646</longitude>
+		<latitude>36.09683255366257</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>3000</range>
+	</LookAt>
+	<Style id="BigB">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table width="480"><tr><td>
+            <b>$[name]</b><br/>
+            $[description]
+           </td></tr></table>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="inline0">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="TeeB">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table width="350"><tr><td>
+            <b>$[name]</b><br/>
+            $[description]
+           </td></tr></table>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>Greens</name>
+		<Placemark>
+			<name>H1Green,2999</name>
+			<description><![CDATA[<p><b>Hole 1 Info</b></p>
+          <ul>
+          <li>Hole has Bunkers</li>
+          <li>Hole has PA/OB/ER</li>
+          <li>Hole has Trees</li>
+         </ul>
+         <p><b>Green Info</b></p>
+         <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 2999, GPS N/A</li>
+          <li>Bordered by Bunkers = &#62;0_to_1/4 Depth = 7</li>
+          <li>Lateral ER = 30 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral OB = 30 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>EffGreenDia 29 W20 D46</li>
+          <li>Surface Moderate Contour or Moderately Sloped</li>
+          <li>Firmness Normal</li>
+          <li>Mounds</li>
+          <li>Trees At Green  Minor Problem Adj_-1</li>
+          </ul>]]></description>
+			<styleUrl>#BigB</styleUrl>
+			<Point>
+				<coordinates>-115.3479269906646,36.09683255366257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>H1GreenW</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3479921264639,36.09676470980993,914.1654410071642 -115.3478821186749,36.09688036808321,914.694787674073 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H1GreenD</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3481022473348,36.09694473782972,916.1931394437391 -115.3477421419052,36.09671252602389,915.0630668616797 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H2Green,3042</name>
+			<description><![CDATA[<p><b>Hole 2 Info</b></p>
+          <ul>
+          <li>Hole has Bunkers</li>
+          <li>Hole has PA/OB/ER</li>
+          <li>Hole has Trees</li>
+         </ul>
+         <p><b>Green Info</b></p>
+         <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 3042, GPS N/A</li>
+          <li>Bordered by Bunkers = &#62;0_to_1/4 Depth = 5</li>
+          <li>PA/OB/ER Surround 1/4 or less, Green Edge to PA/OB/ER = 4</li>
+          <li>Lateral PA = 12 75%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral ER = 20 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral OB = 20 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>EffGreenDia 23 W15 D46</li>
+          <li>Surface Moderate Contour or Moderately Sloped</li>
+          <li>Firmness Normal</li>
+          <li>Trees At Green  Minor Problem Adj_-1</li>
+          </ul>]]></description>
+			<styleUrl>#BigB</styleUrl>
+			<Point>
+				<coordinates>-115.3506985562656,36.09649019342884,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>H2GreenW</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3507246567543,36.09642690286746,928.2265247939623 -115.3506759258356,36.09654639578501,926.2372061950592 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H2GreenD</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3504664963836,36.09642389859438,926.857814967485 -115.3509069717915,36.09654808857524,926.4310582823498 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H3Green,2998</name>
+			<description><![CDATA[<p><b>Hole 3 Info</b></p>
+          <ul>
+          <li>Hole has Bunkers</li>
+          <li>Hole has PA/OB/ER</li>
+          <li>Hole has Trees</li>
+         </ul>
+         <p><b>Green Info</b></p>
+         <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 2998, GPS N/A</li>
+          <li>Bordered by Bunkers = &#62;0_to_1/4 Depth = 7</li>
+          <li>Lateral ER = 22 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral OB = 22 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>EffGreenDia 29 W22 D36</li>
+          <li>Surface Moderate Contour or Moderately Sloped</li>
+          <li>Firmness Normal</li>
+          <li>Trees At Green  Minor Problem Adj_-1</li>
+          </ul>]]></description>
+			<styleUrl>#BigB</styleUrl>
+			<Point>
+				<coordinates>-115.3455304560161,36.09602434761403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>H3GreenW</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3454301382718,36.09595520142079,914.8057547483433 -115.3456254637205,36.09608763259494,912.3405220708177 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H3GreenD</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3456816446899,36.09588181852447,916.1070882084891 -115.3454068892615,36.0961408792787,911.0987932651749 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H4Green,2983</name>
+			<description><![CDATA[<p><b>Hole 4 Info</b></p>
+          <ul>
+          <li>Hole has Bunkers</li>
+          <li>Hole has PA/OB/ER</li>
+          <li>Hole has Trees</li>
+         </ul>
+         <p><b>Green Info</b></p>
+         <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 2983, GPS N/A</li>
+          <li>Bordered by Bunkers = &#62;1/4_to_1/2 Depth = 7</li>
+          <li>Lateral ER = 28 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral OB = 28 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>EffGreenDia 24 W17 D37</li>
+          <li>Surface Relatively Flat or Gently Sloped</li>
+          <li>Firmness Normal</li>
+          <li>Trees At Green  Minor Problem Adj_-1</li>
+          </ul>]]></description>
+			<styleUrl>#BigB</styleUrl>
+			<Point>
+				<coordinates>-115.3447815603262,36.09884450809341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>H4GreenW</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3448641319023,36.09883291690913,909.3106298912163 -115.3447000839631,36.09885417321016,909.5886350875579 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H4GreenD</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3448191038936,36.09897954548647,910.4566859198902 -115.3447399890334,36.09868880424008,908.8342461110997 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H5Green,3025</name>
+			<description><![CDATA[<p><b>Hole 5 Info</b></p>
+          <ul>
+          <li>Hole has Bunkers</li>
+          <li>Hole has PA/OB/ER</li>
+          <li>Hole has Trees</li>
+         </ul>
+         <p><b>Green Info</b></p>
+         <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 3025, GPS N/A</li>
+          <li>Bordered by Bunkers = &#62;0_to_1/4 Depth = 7</li>
+          <li>Lateral ER = 38 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral OB = 38 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>EffGreenDia 29 W34 D24</li>
+          <li>Surface Moderate Contour or Moderately Sloped</li>
+          <li>Firmness Normal</li>
+          <li>Mounds</li>
+          <li>Trees At Green  Minor Problem Adj_-1</li>
+          </ul>]]></description>
+			<styleUrl>#BigB</styleUrl>
+			<Point>
+				<coordinates>-115.3449132911651,36.10212945748908,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>H5GreenW</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3448771080717,36.10205526544326,921.5591079167093 -115.3449487985822,36.10219992935545,922.6726681153842 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H5GreenD</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3450932140209,36.10207534260355,921.544084820555 -115.3447486281223,36.10217855226527,922.7847383485955 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H6Green,2927</name>
+			<description><![CDATA[<p><b>Hole 6 Info</b></p>
+          <ul>
+          <li>Hole has Bunkers</li>
+          <li>Hole has PA/OB/ER</li>
+          <li>Hole has Trees</li>
+         </ul>
+         <p><b>Green Info</b></p>
+         <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 2927, GPS N/A</li>
+          <li>Bordered by Bunkers = &#62;0_to_1/4 Depth = 5</li>
+          <li>PA/OB/ER Surround 1/4 or less, Green Edge to PA/OB/ER = 7</li>
+          <li>Lateral PA = 17 100%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral ER = 31 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral OB = 31 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>EffGreenDia 34 W44 D24</li>
+          <li>Surface Moderate Contour or Moderately Sloped</li>
+          <li>Firmness Normal</li>
+          <li>Trees At Green  Minor Problem Adj_No</li>
+          </ul>]]></description>
+			<styleUrl>#BigB</styleUrl>
+			<Point>
+				<coordinates>-115.3375172188526,36.10228694965635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>H6GreenW</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3374390215347,36.10210676492707,890.848783766893 -115.3375908535728,36.10245193628163,895.4764363914285 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H6GreenD</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3376017737249,36.10226875143924,892.5060084215389 -115.337431059941,36.10230416764863,892.1257869088803 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H7Green,2933</name>
+			<description><![CDATA[<p><b>Hole 7 Info</b></p>
+          <ul>
+          <li>Hole has Bunkers</li>
+          <li>Hole has PA/OB/ER</li>
+          <li>Hole has Trees</li>
+         </ul>
+         <p><b>Green Info</b></p>
+         <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 2933, GPS N/A</li>
+          <li>Bordered by Bunkers = &#62;1/4_to_1/2 Depth = 7</li>
+          <li>Lateral ER = 20 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral OB = 20 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>EffGreenDia 26 W17 D43</li>
+          <li>Surface Moderate Contour or Moderately Sloped</li>
+          <li>Firmness Normal</li>
+          <li>Trees At Green  Minor Problem Adj_-1</li>
+          </ul>]]></description>
+			<styleUrl>#BigB</styleUrl>
+			<Point>
+				<coordinates>-115.3376846849769,36.10417366985284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>H7GreenW</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3376519500312,36.10422294415953,895.3700706402054 -115.3377291082937,36.10410733169483,893.227997778232 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H7GreenD</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3378650193806,36.10425456930811,896.4276285986601 -115.3374887633662,36.10408280357324,892.5689181271436 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H8Green,2970</name>
+			<description><![CDATA[<p><b>Hole 8 Info</b></p>
+          <ul>
+          <li>Hole has Bunkers</li>
+          <li>Hole has PA/OB/ER</li>
+          <li>Hole has Trees</li>
+         </ul>
+         <p><b>Green Info</b></p>
+         <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 2970, GPS N/A</li>
+          <li>Bordered by Bunkers = &#62;0_to_1/4 Depth = 3</li>
+          <li>Lateral ER = 29 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral OB = 29 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>EffGreenDia 35 W23 D46</li>
+          <li>Surface Relatively Flat or Gently Sloped</li>
+          <li>Firmness Normal</li>
+          <li>Trees At Green  Minor Problem Adj_No</li>
+          </ul>]]></description>
+			<styleUrl>#BigB</styleUrl>
+			<Point>
+				<coordinates>-115.3422682519588,36.10526323061315,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>H8GreenW</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3423043509031,36.10517433063729,905.250064068236 -115.3422370114317,36.10534146425353,905.0036938614851 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H8GreenD</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3420380242058,36.10519883791834,904.0058337908499 -115.3424819523825,36.10532158447005,905.3455404791179 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H9Green,2932</name>
+			<description><![CDATA[<p><b>Hole 9 Info</b></p>
+          <ul>
+          <li>Hole has Bunkers</li>
+          <li>Hole has PA/OB/ER</li>
+          <li>Hole has Trees</li>
+         </ul>
+         <p><b>Green Info</b></p>
+         <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 2932, GPS N/A</li>
+          <li>Bordered by Bunkers = &#62;0_to_1/4 Depth = 6</li>
+          <li>PA/OB/ER Surround 1/4 or less, Green Edge to PA/OB/ER = 3</li>
+          <li>Lateral PA = 12 100%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral ER = 32 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral OB = 32 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>EffGreenDia 28 W19 D47</li>
+          <li>Surface Moderate Contour or Moderately Sloped</li>
+          <li>Firmness Normal</li>
+          <li>Trees At Green  Minor Problem Adj_+1</li>
+          </ul>]]></description>
+			<styleUrl>#BigB</styleUrl>
+			<Point>
+				<coordinates>-115.3393458398159,36.10607737689783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>H9GreenW</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3393587773579,36.10600908244027,893.6638909700595 -115.3393336052538,36.10615094169164,893.4263511757557 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H9GreenD</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3395886318861,36.1061107029491,893.9341463905741 -115.3391229268604,36.10604420817622,892.8838838867205 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H10Green,2882</name>
+			<description><![CDATA[<p><b>Hole 10 Info</b></p>
+          <ul>
+          <li>Hole has Bunkers</li>
+          <li>Hole has PA/OB/ER</li>
+          <li>Hole has Trees</li>
+         </ul>
+         <p><b>Green Info</b></p>
+         <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 2882, GPS N/A</li>
+          <li>Bordered by Bunkers = &#62;0_to_1/4 Depth = 6</li>
+          <li>Lateral ER = 34 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral OB = 34 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>EffGreenDia 38 W36 D39</li>
+          <li>Surface Moderate Contour or Moderately Sloped</li>
+          <li>Firmness Normal</li>
+          <li>Mounds</li>
+          <li>Trees At Green  Minor Problem Adj_-1</li>
+          </ul>]]></description>
+			<styleUrl>#BigB</styleUrl>
+			<Point>
+				<coordinates>-115.332618456507,36.10712845098693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>H10GreenW</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3327198629988,36.10726385969497,878.5721564573316 -115.3325039493413,36.10697141276615,878.6162797743274 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H10GreenD</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3324896195517,36.10718571330982,877.9341324118 -115.3327491872419,36.10706947880676,878.8875157421719 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H11Green,2854</name>
+			<description><![CDATA[<p><b>Hole 11 Info</b></p>
+          <ul>
+          <li>Hole has Bunkers</li>
+          <li>Hole has PA/OB/ER</li>
+          <li>Hole has Trees</li>
+         </ul>
+         <p><b>Green Info</b></p>
+         <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 2854, GPS N/A</li>
+          <li>Bordered by Bunkers = &#62;1/4_to_1/2 Depth = 4</li>
+          <li>Green Surrounded by PA/OB/ER = &#62;1/4_to_1/2 ApplyToPA_Yes ApplyToER_No ApplyToOB_No Green Edge to PA/OB/ER = 2</li>
+          <li>Lateral PA = 12 100%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral ER = 44 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral OB = 44 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>EffGreenDia 29 W20 D38</li>
+          <li>Surface Moderate Contour or Moderately Sloped</li>
+          <li>Firmness Normal</li>
+          <li>Trees At Green  Minor Problem Adj_-1</li>
+          </ul>]]></description>
+			<styleUrl>#BigB</styleUrl>
+			<Point>
+				<coordinates>-115.3298108951965,36.10645031801696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>H11GreenW</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3298066185822,36.10637240323298,869.4702187319085 -115.329815978053,36.10652281119171,869.8882143871674 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H11GreenD</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3296463947238,36.10645515142227,869.1777237225955 -115.3300242145987,36.10644267117588,870.0480958693474 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H12Green,2881</name>
+			<description><![CDATA[<p><b>Hole 12 Info</b></p>
+          <ul>
+          <li>Hole has Bunkers</li>
+          <li>Hole has PA/OB/ER</li>
+          <li>Hole has Trees</li>
+         </ul>
+         <p><b>Green Info</b></p>
+         <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 2881, GPS N/A</li>
+          <li>Green Surrounded by PA/OB/ER = &#62;1/4_to_1/2 ApplyToPA_Yes ApplyToER_No ApplyToOB_No Green Edge to PA/OB/ER = 3</li>
+          <li>Lateral PA = 15 100%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral ER = 30 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral OB = 30 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>EffGreenDia 31 W23 D38</li>
+          <li>Surface Moderate Contour or Moderately Sloped</li>
+          <li>Firmness Normal</li>
+          <li>Trees At Green  Minor Problem Adj_-1</li>
+          </ul>]]></description>
+			<styleUrl>#BigB</styleUrl>
+			<Point>
+				<coordinates>-115.3332445502626,36.10580819362419,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>H12GreenW</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3331542231045,36.10573677842584,877.9397145045251 -115.3333273039245,36.10587218860899,878.1206577627801 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H12GreenD</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3331072982997,36.1059131532167,877.42790617836 -115.3333876043711,36.10569950835284,878.4067008232335 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H13Green,2919</name>
+			<description><![CDATA[<p><b>Hole 13 Info</b></p>
+          <ul>
+          <li>Hole has Bunkers</li>
+          <li>Hole has PA/OB/ER</li>
+          <li>Hole has Trees</li>
+         </ul>
+         <p><b>Green Info</b></p>
+         <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 2919, GPS N/A</li>
+          <li>Bordered by Bunkers = &#62;1/4_to_1/2 Depth = 4</li>
+          <li>Lateral PA = 22 75%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral ER = 37 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral OB = 37 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>EffGreenDia 27 W22 D32</li>
+          <li>Surface Moderate Contour or Moderately Sloped</li>
+          <li>Firmness Normal</li>
+          <li>Trees At Green  Minor Problem Adj_-1</li>
+          </ul>]]></description>
+			<styleUrl>#BigB</styleUrl>
+			<Point>
+				<coordinates>-115.3377446746368,36.10574319144716,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>H13GreenW</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3376251211055,36.10567581495972,889.0465556050352 -115.337880582118,36.10581914440874,889.9684725197872 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H13GreenD</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3378843535677,36.10560616975256,889.758346209591 -115.3376716255362,36.1058160363897,889.2621435192757 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H14Green,2977</name>
+			<description><![CDATA[<p><b>Hole 14 Info</b></p>
+          <ul>
+          <li>Hole has Bunkers</li>
+          <li>Hole has PA/OB/ER</li>
+          <li>Hole has Trees</li>
+         </ul>
+         <p><b>Green Info</b></p>
+         <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 2977, GPS N/A</li>
+          <li>Bordered by Bunkers = &#62;0_to_1/4 Depth = 4</li>
+          <li>Lateral PA = 43 75%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral ER = 31 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral OB = 31 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>EffGreenDia 29 W35 D22</li>
+          <li>Surface Moderate Contour or Moderately Sloped</li>
+          <li>Firmness Normal</li>
+          <li>Mounds</li>
+          <li>Trees At Green  Minor Problem Adj_-1</li>
+          </ul>]]></description>
+			<styleUrl>#BigB</styleUrl>
+			<Point>
+				<coordinates>-115.343701167673,36.10646793265486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>H14GreenW</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3436478048696,36.10658933827763,907.6166453815863 -115.3437640577448,36.10633119184907,906.3700608893192 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H14GreenD</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3435933349774,36.10643682104974,906.7150333807616 -115.3438007794053,36.10649679363499,907.7533016773585 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H15Green,3017</name>
+			<description><![CDATA[<p><b>Hole 15 Info</b></p>
+          <ul>
+          <li>Hole has Bunkers</li>
+          <li>Hole has PA/OB/ER</li>
+          <li>Hole has Trees</li>
+         </ul>
+         <p><b>Green Info</b></p>
+         <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 3017, GPS N/A</li>
+          <li>Bordered by Bunkers = &#62;0_to_1/4 Depth = 4</li>
+          <li>Lateral ER = 27 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral OB = 27 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>EffGreenDia 33 W24 D42</li>
+          <li>Surface Moderate Contour or Moderately Sloped</li>
+          <li>Firmness Normal</li>
+          <li>Mounds</li>
+          <li>Trees At Green  Minor Problem Adj_-1</li>
+          </ul>]]></description>
+			<styleUrl>#BigB</styleUrl>
+			<Point>
+				<coordinates>-115.3459139672114,36.10372713450308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>H15GreenW</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3460447310154,36.10372750281189,920.2908089330117 -115.3458022829909,36.10372569764889,918.8373322638848 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H15GreenD</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3459158461375,36.10354637667768,920.4855511384531 -115.3459142813004,36.10389300565066,917.8620623374479 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H16Green,3003</name>
+			<description><![CDATA[<p><b>Hole 16 Info</b></p>
+          <ul>
+          <li>Hole has Bunkers</li>
+          <li>Hole has PA/OB/ER</li>
+          <li>Hole has Trees</li>
+         </ul>
+         <p><b>Green Info</b></p>
+         <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 3003, GPS N/A</li>
+          <li>Bordered by Bunkers = &#62;1/4_to_1/2 Depth = 6</li>
+          <li>Lateral ER = 38 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral OB = 38 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>EffGreenDia 24 W17 D38</li>
+          <li>Surface Relatively Flat or Gently Sloped</li>
+          <li>Firmness Normal</li>
+          <li>Trees At Green  Minor Problem Adj_-1</li>
+          </ul>]]></description>
+			<styleUrl>#BigB</styleUrl>
+			<Point>
+				<coordinates>-115.3472202910445,36.10522102386218,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>H16GreenW</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3472658025208,36.10527558468441,915.3986411340301 -115.3471729231024,36.10516185167849,915.4030152355664 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H16GreenD</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3470615118711,36.10529819851464,914.4716969052893 -115.3473929319982,36.10513554576276,916.5559106797273 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H17Green,3023</name>
+			<description><![CDATA[<p><b>Hole 17 Info</b></p>
+          <ul>
+          <li>Hole has Bunkers</li>
+          <li>Hole has PA/OB/ER</li>
+          <li>Hole has Trees</li>
+         </ul>
+         <p><b>Green Info</b></p>
+         <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 3023, GPS N/A</li>
+          <li>Bordered by Bunkers = &#62;0_to_1/4 Depth = 7</li>
+          <li>Lateral PA = 29 75%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral ER = 36 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral OB = 36 50%T Bounce_No OnlyBehindGreen_No</li>
+          <li>EffGreenDia 33 W28 D38</li>
+          <li>Surface Moderate Contour or Moderately Sloped</li>
+          <li>Firmness Normal</li>
+          <li>Trees At Green  Minor Problem Adj_-1</li>
+          </ul>]]></description>
+			<styleUrl>#BigB</styleUrl>
+			<Point>
+				<coordinates>-115.3496599817428,36.1045711741245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>H17GreenW</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3495512404417,36.10449129613505,920.8026154733096 -115.3497641915727,36.10464563229678,921.583691445633 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H17GreenD</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.349532618037,36.10468234960153,920.4596682827735 -115.3497892415979,36.1044589737276,921.7443278044049 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H18Green,3063</name>
+			<description><![CDATA[<p><b>Hole 18 Info</b></p>
+          <ul>
+          <li>Hole has Bunkers</li>
+          <li>Hole has PA/OB/ER</li>
+          <li>Hole has Trees</li>
+         </ul>
+         <p><b>Green Info</b></p>
+         <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 3063, GPS N/A</li>
+          <li>Bordered by Bunkers = &#62;1/4_to_1/2 Depth = 4</li>
+          <li>Lateral PA = 34 100%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral ER = 31 75%T Bounce_No OnlyBehindGreen_No</li>
+          <li>Lateral OB = 31 75%T Bounce_No OnlyBehindGreen_No</li>
+          <li>EffGreenDia 30 W20 D49</li>
+          <li>Surface Moderate Contour or Moderately Sloped</li>
+          <li>Firmness Normal</li>
+          <li>Mounds</li>
+          <li>Trees At Green  Minor Problem Adj_-1</li>
+          </ul>]]></description>
+			<styleUrl>#BigB</styleUrl>
+			<Point>
+				<coordinates>-115.3514164048445,36.10119445006185,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>H18GreenW</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.351510286202,36.10117491863336,933.7520817635009 -115.3513274482288,36.101211366055,933.8268315196228 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>H18GreenD</name>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-115.3514720417151,36.10136835593944,933.9104028367483 -115.351349692737,36.10097783933555,934.2991964781496 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Tee 1 Crown</name>
+		<open>1</open>
+		<Folder>
+			<name>Measured Length</name>
+			<Placemark>
+				<name>H1T1,3104</name>
+				<description><![CDATA[<p><b>Crown Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 60, KeyIn 60, GE 3104, GPS N/A</li>
+          <li>Length = 399</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 266 Yds</li>
+          <li>Tee Shot Men Bogey 213 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 88 75%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3506167845687,36.09918309354531,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H2T1,3009</name>
+				<description><![CDATA[<p><b>Crown Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 3009, GPS N/A</li>
+          <li>Length = 189</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 189 Yds</li>
+          <li>Tee Shot Men Bogey 189 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 138 75%T</li>
+          <li>For Men Bunker(s) Protecting &#62; 1/2 Green on Approach Shot = Yes_CloselyBoarding</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3488903505528,36.09689317161362,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H3T1,3074</name>
+				<description><![CDATA[<p><b>Crown Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 80, KeyIn 80, GE 3074, GPS N/A</li>
+          <li>Length = 593</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 173 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.351510541824,36.09587075583367,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H4T1,3001</name>
+				<description><![CDATA[<p><b>Crown Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 20, KeyIn 20, GE 3001, GPS N/A</li>
+          <li>Length = 426</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 203 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 199 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.34539061627,36.09543659527632,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H5T1,3002</name>
+				<description><![CDATA[<p><b>Crown Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -30, KeyIn -30, GE 3002, GPS N/A</li>
+          <li>Length = 361</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 203 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 183 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3451305992772,36.0991782706979,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H6T1,3040</name>
+				<description><![CDATA[<p><b>Crown Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 90, KeyIn 90, GE 3040, GPS N/A</li>
+          <li>Length = 603</li>
+          <li>For Men Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 213 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 110 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3435819667967,36.10175496142787,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H7T1,2949</name>
+				<description><![CDATA[<p><b>Crown Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 2949, GPS N/A</li>
+          <li>Length = 139</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 139 Yds</li>
+          <li>Tee Shot Men Bogey 139 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 90 75%T</li>
+          <li>For Men Bunker(s) Protecting &#62; 1/2 Green on Approach Shot = YesButNot_CloselyBoarding</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3371082857762,36.10318083502387,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H8T1,2914</name>
+				<description><![CDATA[<p><b>Crown Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -30, KeyIn -30, GE 2914, GPS N/A</li>
+          <li>Length = 492</li>
+          <li>For Men Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 203 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 149 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3373224423471,36.10497607567486,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H9T1,2967</name>
+				<description><![CDATA[<p><b>Crown Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 40, KeyIn 40, GE 2967, GPS N/A</li>
+          <li>Length = 447</li>
+          <li>For Men Trees Overall = Minor Problem Adj_+1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Men Scratch Crossing PA/OB/ER = Yes 189 75%T</li>
+          <li>Men Bogey Crossing PA/OB/ER = Yes 159 75%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3438398669037,36.10589535718622,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H10T1,2928</name>
+				<description><![CDATA[<p><b>Crown Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 50, KeyIn 50, GE 2928, GPS N/A</li>
+          <li>Length = 508</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 266 Yds</li>
+          <li>Tee Shot Men Bogey 213 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 162 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3376923931307,36.10635155862487,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H11T1,2879</name>
+				<description><![CDATA[<p><b>Crown Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 30, KeyIn 30, GE 2879, GPS N/A</li>
+          <li>Length = 235</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 235 Yds</li>
+          <li>Tee Shot Men Bogey 213 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 188 100%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.332130041716,36.10696615234946,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H12T1,2857</name>
+				<description><![CDATA[<p><b>Crown Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -20, KeyIn -20, GE 2857, GPS N/A</li>
+          <li>Length = 357</li>
+          <li>For Men Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 203 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 137 75%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3298402269236,36.10592891398278,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H13T1,2889</name>
+				<description><![CDATA[<p><b>Crown Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -20, KeyIn -20, GE 2889, GPS N/A</li>
+          <li>Length = 474</li>
+          <li>For Men Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 203 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 219 75%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3331694228041,36.10671423804349,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H14T1,2936</name>
+				<description><![CDATA[<p><b>Crown Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -40, KeyIn -40, GE 2936, GPS N/A</li>
+          <li>Length = 548</li>
+          <li>For Men Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 123 100%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3382885548918,36.10626785971231,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H15T1,3009</name>
+				<description><![CDATA[<p><b>Crown Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -20, KeyIn -20, GE 3009, GPS N/A</li>
+          <li>Length = 458</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 251 Yds</li>
+          <li>Tee Shot Men Bogey 198 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 194 100%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3442057906297,36.10706625020269,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H16T1,3058</name>
+				<description><![CDATA[<p><b>Crown Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 30, KeyIn 30, GE 3058, GPS N/A</li>
+          <li>Length = 182</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 182 Yds</li>
+          <li>Tee Shot Men Bogey 182 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 145 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.346861399843,36.10376124503276,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H17T1,2990</name>
+				<description><![CDATA[<p><b>Crown Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -30, KeyIn -30, GE 2990, GPS N/A</li>
+          <li>Length = 432</li>
+          <li>For Men Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 169 75%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3458643284056,36.10628262020623,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H18T1,3041</name>
+				<description><![CDATA[<p><b>Crown Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -30, KeyIn -30, GE 3041, GPS N/A</li>
+          <li>Length = 576</li>
+          <li>For Men Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 168 75%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.34964994025,36.1054562778251,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>Tee 2 2Clubs</name>
+		<open>1</open>
+		<Folder>
+			<name>Measured Length</name>
+			<Placemark>
+				<name>H1T2,3092</name>
+				<description><![CDATA[<p><b>2Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 50, KeyIn 50, GE 3092, GPS N/A</li>
+          <li>Length = 380</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3504041936588,36.09914341988849,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H2T2,3041</name>
+				<description><![CDATA[<p><b>2Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 3041, GPS N/A</li>
+          <li>Length = 159</li>
+          <li>For Men Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 159 Yds</li>
+          <li>Tee Shot Men Bogey 159 Yds</li>
+          <li>For Men Bunker(s) Protecting &#62; 1/2 Green on Approach Shot = Yes_CloselyBoarding</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.349397835475,36.09720780054749,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H3T2,3060</name>
+				<description><![CDATA[<p><b>2Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 70, KeyIn 70, GE 3060, GPS N/A</li>
+          <li>Length = 557</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 138 100%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3511717009068,36.09591427123345,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H4T2,2999</name>
+				<description><![CDATA[<p><b>2Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 20, KeyIn 20, GE 2999, GPS N/A</li>
+          <li>Length = 389</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 178 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3451113119768,36.0956888232939,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H5T2,2994</name>
+				<description><![CDATA[<p><b>2Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -20, KeyIn -20, GE 2994, GPS N/A</li>
+          <li>Length = 325</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 145 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3445776184873,36.09948491993954,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H6T2,3030</name>
+				<description><![CDATA[<p><b>2Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 80, KeyIn 80, GE 3030, GPS N/A</li>
+          <li>Length = 571</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 125 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3432651464776,36.10162754892953,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H7T2,2934</name>
+				<description><![CDATA[<p><b>2Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 2934, GPS N/A</li>
+          <li>Length = 128</li>
+          <li>For Men Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 128 Yds</li>
+          <li>Tee Shot Men Bogey 128 Yds</li>
+          <li>For Men Bunker(s) Protecting &#62; 1/2 Green on Approach Shot = YesButNot_CloselyBoarding</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3369414780397,36.1033430487228,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H8T2,2918</name>
+				<description><![CDATA[<p><b>2Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -30, KeyIn -30, GE 2918, GPS N/A</li>
+          <li>Length = 442</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 114 100%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3378262893333,36.10501199515245,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H9T2,2966</name>
+				<description><![CDATA[<p><b>2Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 40, KeyIn 40, GE 2966, GPS N/A</li>
+          <li>Length = 425</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 126 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3436048940453,36.10591186688623,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H10T2,2936</name>
+				<description><![CDATA[<p><b>2Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 50, KeyIn 50, GE 2936, GPS N/A</li>
+          <li>Length = 450</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 107 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3371518091276,36.10660870114341,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H11T2,2877</name>
+				<description><![CDATA[<p><b>2Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 30, KeyIn 30, GE 2877, GPS N/A</li>
+          <li>Length = 202</li>
+          <li>For Men Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 202 Yds</li>
+          <li>Tee Shot Men Bogey 202 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 146 100%T</li>
+          <li>For Men Bunker(s) Protecting &#62; 1/2 Green on Approach Shot = Yes_CloselyBoarding</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3317977373498,36.1068961172555,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H12T2,2858</name>
+				<description><![CDATA[<p><b>2Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -20, KeyIn -20, GE 2858, GPS N/A</li>
+          <li>Length = 327</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 107 100%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3301537092573,36.10593753176636,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H13T2,2891</name>
+				<description><![CDATA[<p><b>2Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -20, KeyIn -20, GE 2891, GPS N/A</li>
+          <li>Length = 443</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 125 100%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3334390735889,36.10661080518884,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H14T2,2941</name>
+				<description><![CDATA[<p><b>2Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -40, KeyIn -40, GE 2941, GPS N/A</li>
+          <li>Length = 519</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 92 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.338593959177,36.10630501581892,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H15T2,3006</name>
+				<description><![CDATA[<p><b>2Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -20, KeyIn -20, GE 3006, GPS N/A</li>
+          <li>Length = 439</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 198 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 93 100%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3443433971994,36.10694740019622,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H16T2,3055</name>
+				<description><![CDATA[<p><b>2Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 30, KeyIn 30, GE 3055, GPS N/A</li>
+          <li>Length = 163</li>
+          <li>For Men Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 163 Yds</li>
+          <li>Tee Shot Men Bogey 163 Yds</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3469202802918,36.10391462580485,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H17T2,2987</name>
+				<description><![CDATA[<p><b>2Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -30, KeyIn -30, GE 2987, GPS N/A</li>
+          <li>Length = 400</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 113 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3462247132479,36.10624861247867,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H18T2,3040</name>
+				<description><![CDATA[<p><b>2Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -30, KeyIn -30, GE 3040, GPS N/A</li>
+          <li>Length = 554</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Men Scratch Crossing PA/OB/ER = Yes 169 50%T</li>
+          <li>Men Bogey Crossing PA/OB/ER = Yes 149 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3497898105824,36.10533021021027,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>Tee 3 3Clubs</name>
+		<open>1</open>
+		<Folder>
+			<name>Measured Length</name>
+			<Placemark>
+				<name>H1T3,3086</name>
+				<description><![CDATA[<p><b>3Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 50, KeyIn 50, GE 3086, GPS N/A</li>
+          <li>Length = 362</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 67 50%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 64 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.350378106277,36.09898274868771,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H2T3,3020</name>
+				<description><![CDATA[<p><b>3Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 3020, GPS N/A</li>
+          <li>Length = 158</li>
+          <li>Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 158 Yds</li>
+          <li>Tee Shot Men Bogey 158 Yds</li>
+          <li>Tee Shot Women Scratch 158 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 130 50%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 108 50%T</li>
+          <li>For Men Bunker(s) Protecting &#62; 1/2 Green on Approach Shot = Yes_CloselyBoarding</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3492580074465,36.09700376933176,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H3T3,3044</name>
+				<description><![CDATA[<p><b>3Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 50, KeyIn 50, GE 3044, GPS N/A</li>
+          <li>Length = 502</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 266 Yds</li>
+          <li>Tee Shot Men Bogey 218 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 88 50%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 89 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3506231794098,36.0959148465066,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H4T3,2997</name>
+				<description><![CDATA[<p><b>3Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 10, KeyIn 10, GE 2997, GPS N/A</li>
+          <li>Length = 360</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 256 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 140 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 125 50%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 123 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3448488713808,36.09590722382971,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H5T3,2992</name>
+				<description><![CDATA[<p><b>3Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -20, KeyIn -20, GE 2992, GPS N/A</li>
+          <li>Length = 287</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 236 Yds</li>
+          <li>Tee Shot Men Bogey 203 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 135 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 110 50%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 104 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3446996874699,36.09979448664239,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H6T3,3022</name>
+				<description><![CDATA[<p><b>3Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 70, KeyIn 70, GE 3022, GPS N/A</li>
+          <li>Length = 555</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 266 Yds</li>
+          <li>Tee Shot Men Bogey 213 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 115 50%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 90 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3430606598959,36.10152763411693,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H7T3,2918</name>
+				<description><![CDATA[<p><b>3Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 2918, GPS N/A</li>
+          <li>Length = 123</li>
+          <li>Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 123 Yds</li>
+          <li>Tee Shot Men Bogey 123 Yds</li>
+          <li>Tee Shot Women Scratch 123 Yds</li>
+          <li>Tee Shot Women Bogey 123 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 72 100%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 66 50%T</li>
+          <li>For Men Bunker(s) Protecting &#62; 1/2 Green on Approach Shot = YesButNot_CloselyBoarding</li>
+          <li>Women Bogey Bunker(s) Protecting &#62; 1/2 Green on Approach Shot = YesButNot_CloselyBoarding</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3368323498143,36.10352854566505,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H8T3,2918</name>
+				<description><![CDATA[<p><b>3Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -30, KeyIn -30, GE 2918, GPS N/A</li>
+          <li>Length = 403</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>Crossing PA/OB/ER = Yes 70 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3381993154792,36.10508575768235,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H9T3,2965</name>
+				<description><![CDATA[<p><b>3Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 40, KeyIn 40, GE 2965, GPS N/A</li>
+          <li>Length = 397</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 115 50%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 90 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3432805577344,36.1058456998995,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H10T3,2932</name>
+				<description><![CDATA[<p><b>3Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 50, KeyIn 50, GE 2932, GPS N/A</li>
+          <li>Length = 427</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 85 50%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 83 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3369502732535,36.1067668009315,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H11T3,2874</name>
+				<description><![CDATA[<p><b>3Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 20, KeyIn 20, GE 2874, GPS N/A</li>
+          <li>Length = 183</li>
+          <li>Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 183 Yds</li>
+          <li>Tee Shot Men Bogey 183 Yds</li>
+          <li>Tee Shot Women Scratch 183 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 125 100%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 122 100%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3316636656565,36.10670035667517,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H12T3,2856</name>
+				<description><![CDATA[<p><b>3Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -20, KeyIn -20, GE 2856, GPS N/A</li>
+          <li>Length = 302</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 80 100%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 60 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3304104542102,36.10596209986252,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H13T3,2884</name>
+				<description><![CDATA[<p><b>3Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -30, KeyIn -30, GE 2884, GPS N/A</li>
+          <li>Length = 370</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 75 100%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 39 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.33399358409,36.10599652435263,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H14T3,2948</name>
+				<description><![CDATA[<p><b>3Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -30, KeyIn -30, GE 2948, GPS N/A</li>
+          <li>Length = 481</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 203 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 60 50%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 65 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.338925725704,36.10653778145922,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H15T3,2991</name>
+				<description><![CDATA[<p><b>3Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -30, KeyIn -30, GE 2991, GPS N/A</li>
+          <li>Length = 403</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 198 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 152 100%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 140 100%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3445601040319,36.10671616672577,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H16T3,3040</name>
+				<description><![CDATA[<p><b>3Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 30, KeyIn 30, GE 3040, GPS N/A</li>
+          <li>Length = 143</li>
+          <li>Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 143 Yds</li>
+          <li>Tee Shot Men Bogey 143 Yds</li>
+          <li>Tee Shot Women Scratch 143 Yds</li>
+          <li>Tee Shot Women Bogey 143 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 110 50%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 105 50%T</li>
+          <li>Bunker(s) Protecting &#62; 1/2 Green on Approach Shot = Yes_CloselyBoarding</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3467344757959,36.10411582470182,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H17T3,2990</name>
+				<description><![CDATA[<p><b>3Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -30, KeyIn -30, GE 2990, GPS N/A</li>
+          <li>Length = 363</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 90 50%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 83 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3466357348165,36.10624226628504,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H18T3,3044</name>
+				<description><![CDATA[<p><b>3Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -20, KeyIn -20, GE 3044, GPS N/A</li>
+          <li>Length = 498</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 213 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 90 50%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 87 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3504247184513,36.10511768156542,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>Tee 4 4Clubs</name>
+		<open>1</open>
+		<Folder>
+			<name>Measured Length</name>
+			<Placemark>
+				<name>H1T4,3077</name>
+				<description><![CDATA[<p><b>4Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 40, KeyIn 40, GE 3077, GPS N/A</li>
+          <li>Length = 332</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 266 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Women Crossing PA/OB/ER = Yes 46 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3503219284331,36.09869543022251,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H2T4,3027</name>
+				<description><![CDATA[<p><b>4Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 3027, GPS N/A</li>
+          <li>Length = 156</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          <li>For Women Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 156 Yds</li>
+          <li>Tee Shot Men Bogey 156 Yds</li>
+          <li>Tee Shot Women Scratch 156 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 106 50%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 110 50%T</li>
+          <li>For Men Bunker(s) Protecting &#62; 1/2 Green on Approach Shot = Yes_CloselyBoarding</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3491137579207,36.09667586607986,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H3T4,3039</name>
+				<description><![CDATA[<p><b>4Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 50, KeyIn 50, GE 3039, GPS N/A</li>
+          <li>Length = 473</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 60 100%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 58 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3503028979983,36.09585560247201,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H4T4,2995</name>
+				<description><![CDATA[<p><b>4Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 10, KeyIn 10, GE 2995, GPS N/A</li>
+          <li>Length = 342</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 108 50%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 110 100%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3447211176944,36.0960655755858,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H5T4,3005</name>
+				<description><![CDATA[<p><b>4Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -20, KeyIn -20, GE 3005, GPS N/A</li>
+          <li>Length = 266</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 145 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 82 50%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 90 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3444960959873,36.09998330126994,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H6T4,2994</name>
+				<description><![CDATA[<p><b>4Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 50, KeyIn 50, GE 2994, GPS N/A</li>
+          <li>Length = 487</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3423824752738,36.10161502465103,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H7T4,2923</name>
+				<description><![CDATA[<p><b>4Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 2923, GPS N/A</li>
+          <li>Length = 106</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          <li>For Women Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 106 Yds</li>
+          <li>Tee Shot Men Bogey 106 Yds</li>
+          <li>Tee Shot Women Scratch 106 Yds</li>
+          <li>Tee Shot Women Bogey 106 Yds</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3367752186714,36.10370639499173,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H8T4,2921</name>
+				<description><![CDATA[<p><b>4Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -30, KeyIn -30, GE 2921, GPS N/A</li>
+          <li>Length = 372</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 256 Yds</li>
+          <li>Tee Shot Men Bogey 203 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Women Crossing PA/OB/ER = Yes 33 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3385075698539,36.10519273683086,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H9T4,2961</name>
+				<description><![CDATA[<p><b>4Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 30, KeyIn 30, GE 2961, GPS N/A</li>
+          <li>Length = 347</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 256 Yds</li>
+          <li>Tee Shot Men Bogey 203 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Women Crossing PA/OB/ER = Yes 40 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3427513054781,36.10575478736003,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H10T4,2931</name>
+				<description><![CDATA[<p><b>4Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 50, KeyIn 50, GE 2931, GPS N/A</li>
+          <li>Length = 385</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Women Crossing PA/OB/ER = Yes 43 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3365501854168,36.10687271852171,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H11T4,2868</name>
+				<description><![CDATA[<p><b>4Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 10, KeyIn 10, GE 2868, GPS N/A</li>
+          <li>Length = 152</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          <li>For Women Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 152 Yds</li>
+          <li>Tee Shot Men Bogey 152 Yds</li>
+          <li>Tee Shot Women Scratch 152 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 40 100%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 100 100%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3313585526884,36.10662265125812,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H12T4,2859</name>
+				<description><![CDATA[<p><b>4Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -10, KeyIn -10, GE 2859, GPS N/A</li>
+          <li>Length = 275</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 145 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 40 100%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 56 100%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3306911738243,36.10597772501184,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H13T4,2887</name>
+				<description><![CDATA[<p><b>4Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -30, KeyIn -30, GE 2887, GPS N/A</li>
+          <li>Length = 361</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 25 100%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 30 100%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3341500745689,36.10585644089345,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H14T4,2964</name>
+				<description><![CDATA[<p><b>4Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -20, KeyIn -20, GE 2964, GPS N/A</li>
+          <li>Length = 442</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Women Crossing PA/OB/ER = Yes 55 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3392912581349,36.10674278948308,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H15T4,2984</name>
+				<description><![CDATA[<p><b>4Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -40, KeyIn -40, GE 2984, GPS N/A</li>
+          <li>Length = 322</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 251 Yds</li>
+          <li>Tee Shot Men Bogey 198 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 145 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 66 100%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 71 100%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3452339582985,36.1062630191234,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H16T4,3039</name>
+				<description><![CDATA[<p><b>4Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 20, KeyIn 20, GE 3039, GPS N/A</li>
+          <li>Length = 125</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          <li>For Women Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 125 Yds</li>
+          <li>Tee Shot Men Bogey 125 Yds</li>
+          <li>Tee Shot Women Scratch 125 Yds</li>
+          <li>Tee Shot Women Bogey 125 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 70 50%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 91 75%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3470066357193,36.10421499486714,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H17T4,2993</name>
+				<description><![CDATA[<p><b>4Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -40, KeyIn -40, GE 2993, GPS N/A</li>
+          <li>Length = 330</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 256 Yds</li>
+          <li>Tee Shot Men Bogey 203 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 67 50%T</li>
+          <li>For Women Crossing PA/OB/ER = Yes 58 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3470108364512,36.10623619923759,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H18T4,3032</name>
+				<description><![CDATA[<p><b>4Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -20, KeyIn -20, GE 3032, GPS N/A</li>
+          <li>Length = 423</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>For Men Crossing PA/OB/ER = Yes 70 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3507502794573,36.1049268130806,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>Tee 5 5Clubs</name>
+		<open>1</open>
+		<Folder>
+			<name>Measured Length</name>
+			<Placemark>
+				<name>H1T5,3066</name>
+				<description><![CDATA[<p><b>5Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 30, KeyIn 30, GE 3066, GPS N/A</li>
+          <li>Length = 315</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 266 Yds</li>
+          <li>Tee Shot Men Bogey 218 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3501417797846,36.09864327927247,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H2T5,3043</name>
+				<description><![CDATA[<p><b>5Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 3043, GPS N/A</li>
+          <li>Length = 116</li>
+          <li>For Men Trees Overall = No Trees Adj_No</li>
+          <li>For Women Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 116 Yds</li>
+          <li>Tee Shot Men Bogey 116 Yds</li>
+          <li>Tee Shot Women Scratch 116 Yds</li>
+          <li>Tee Shot Women Bogey 116 Yds</li>
+          <li>For Women Crossing PA/OB/ER = Yes 79 50%T</li>
+          <li>Men Scratch Crossing PA/OB/ER = Yes 85 100%T</li>
+          <li>Men Bogey Crossing PA/OB/ER = Yes 85 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3495036699987,36.09648852855803,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H3T5,3049</name>
+				<description><![CDATA[<p><b>5Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 50, KeyIn 50, GE 3049, GPS N/A</li>
+          <li>Length = 428</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 266 Yds</li>
+          <li>Tee Shot Men Bogey 213 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 145 Yds</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.349837438231,36.09612300738598,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H4T5,2969</name>
+				<description><![CDATA[<p><b>5Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -10, KeyIn -10, GE 2969, GPS N/A</li>
+          <li>Length = 278</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 256 Yds</li>
+          <li>Tee Shot Men Bogey 203 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3443499009112,36.09657561741125,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H5T5,3012</name>
+				<description><![CDATA[<p><b>5Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -20, KeyIn -20, GE 3012, GPS N/A</li>
+          <li>Length = 222</li>
+          <li>For Men Trees Overall = No Trees Adj_No</li>
+          <li>For Women Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 222 Yds</li>
+          <li>Tee Shot Men Bogey 193 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          <li>Women Scratch LessThan1/2GreenVisible</li>
+          <li>Women Scratch Bunker(s) Protecting &#62; 1/2 Green on Approach Shot = Yes_CloselyBoarding</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3444242421048,36.10041287032559,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H6T5,2983</name>
+				<description><![CDATA[<p><b>5Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 40, KeyIn 40, GE 2983, GPS N/A</li>
+          <li>Length = 449</li>
+          <li>For Men Trees Overall = Minor Problem Adj_No</li>
+          <li>For Women Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 266 Yds</li>
+          <li>Tee Shot Men Bogey 213 Yds</li>
+          <li>Tee Shot Women Scratch 229 Yds</li>
+          <li>Tee Shot Women Bogey 160 Yds</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3419631842462,36.10159972330126,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H7T5,2928</name>
+				<description><![CDATA[<p><b>5Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 2928, GPS N/A</li>
+          <li>Length = 98</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          <li>For Women Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 98 Yds</li>
+          <li>Tee Shot Men Bogey 98 Yds</li>
+          <li>Tee Shot Women Scratch 98 Yds</li>
+          <li>Tee Shot Women Bogey 98 Yds</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3368048052201,36.10382441702113,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H8T5,2926</name>
+				<description><![CDATA[<p><b>5Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -30, KeyIn -30, GE 2926, GPS N/A</li>
+          <li>Length = 337</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 203 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3388433733382,36.10529630349119,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H9T5,2958</name>
+				<description><![CDATA[<p><b>5Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 20, KeyIn 20, GE 2958, GPS N/A</li>
+          <li>Length = 313</li>
+          <li>For Men Trees Overall = No Trees Adj_No</li>
+          <li>For Women Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 203 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3423974632926,36.10576185133655,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H10T5,2931</name>
+				<description><![CDATA[<p><b>5Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 40, KeyIn 40, GE 2931, GPS N/A</li>
+          <li>Length = 352</li>
+          <li>For Men Trees Overall = Minor Problem Adj_No</li>
+          <li>For Women Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 266 Yds</li>
+          <li>Tee Shot Men Bogey 213 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3362057794533,36.10704686506735,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H11T5,2863</name>
+				<description><![CDATA[<p><b>5Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 0, KeyIn 0, GE 2863, GPS N/A</li>
+          <li>Length = 132</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          <li>For Women Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 132 Yds</li>
+          <li>Tee Shot Men Bogey 132 Yds</li>
+          <li>Tee Shot Women Scratch 132 Yds</li>
+          <li>Tee Shot Women Bogey 132 Yds</li>
+          <li>Crossing PA/OB/ER = Yes 75 100%T</li>
+          <li>For Men Bunker(s) Protecting &#62; 1/2 Green on Approach Shot = Yes_CloselyBoarding</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.331160571126,36.10657136972277,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H12T5,2863</name>
+				<description><![CDATA[<p><b>5Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -10, KeyIn -10, GE 2863, GPS N/A</li>
+          <li>Length = 230</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 230 Yds</li>
+          <li>Tee Shot Men Bogey 203 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3311213858114,36.10620792835611,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H13T5,2890</name>
+				<description><![CDATA[<p><b>5Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -40, KeyIn -40, GE 2890, GPS N/A</li>
+          <li>Length = 336</li>
+          <li>For Men Trees Overall = Minor Problem Adj_No</li>
+          <li>For Women Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3343498206179,36.1057150706069,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H14T5,2962</name>
+				<description><![CDATA[<p><b>5Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -20, KeyIn -20, GE 2962, GPS N/A</li>
+          <li>Length = 400</li>
+          <li>For Men Trees Overall = No Trees Adj_No</li>
+          <li>For Women Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 256 Yds</li>
+          <li>Tee Shot Men Bogey 203 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.33973244521,36.10683265029183,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H15T5,2988</name>
+				<description><![CDATA[<p><b>5Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -30, KeyIn -30, GE 2988, GPS N/A</li>
+          <li>Length = 245</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 245 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3459067820403,36.10573739496739,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H16T5,3023</name>
+				<description><![CDATA[<p><b>5Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used 20, KeyIn 20, GE 3023, GPS N/A</li>
+          <li>Length = 100</li>
+          <li>For Men Trees Overall = Minor Problem Adj_-1</li>
+          <li>For Women Trees Overall = Minor Problem Adj_No</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 100 Yds</li>
+          <li>Tee Shot Men Bogey 100 Yds</li>
+          <li>Tee Shot Women Scratch 100 Yds</li>
+          <li>Tee Shot Women Bogey 100 Yds</li>
+          <li>For Women Crossing PA/OB/ER = Yes 25 50%T</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3476356447745,36.10447391898359,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H17T5,3001</name>
+				<description><![CDATA[<p><b>5Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -30, KeyIn -30, GE 3001, GPS N/A</li>
+          <li>Length = 277</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3473938369778,36.10594032952542,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H18T5,3042</name>
+				<description><![CDATA[<p><b>5Clubs Tee Info</b></p>
+          <ul>
+          <li>Altitude Used -20, KeyIn -20, GE 3042, GPS N/A</li>
+          <li>Length = 390</li>
+          <li>Trees Overall = Minor Problem Adj_-1</li>
+          </ul>
+          <p><b>On Tee Shot:</b></p>
+          <ul>
+          <li>Tee Shot Men Scratch 261 Yds</li>
+          <li>Tee Shot Men Bogey 208 Yds</li>
+          <li>Tee Shot Women Scratch 219 Yds</li>
+          <li>Tee Shot Women Bogey 150 Yds</li>
+          </ul>]]></description>
+				<styleUrl>#TeeB</styleUrl>
+				<Point>
+					<coordinates>-115.3511399388538,36.10463020406908,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
