@@ -1,5 +1,6 @@
 Course Rating Assistant (Rating File Level: V3.18)
 Notes: Based on Course Rating System 2016-2017 Plus Penalty Areas Converted To 2020 Course Rating System
+Rater = Lew On 5/23/2020 10:26:48 AM
 Rater = Lew On 4/17/2020 8:15:36 AM
 Rater = L On 10/26/2019 6:50:47 PM
 Merged On 10/24/2019 7:27:07 PM Saved as SummitV310 RatedMen H1-18 T1T2T3T4T5 Women1-18 T3T4T5 LEWASUS.txt
@@ -856,7 +857,7 @@ Crossing Carry = CanCarry
 Tree Chute = No W >30 D 0 OverUnder_No
 Trees Obstruct LZ or Green = No
 Trees Overall = Minor Problem Adj_-1
-Add LZ = No IsApproachShot_Yes ApproachShotDist ?
+Add LZ = No IsApproachShot_Yes ApproachShotDist ? :Shot can CARRY to Green Center
 Green Visible = CanSee1/2orMore ObstructedByTrees_No
 Bunker(s) Protecting > 1/2 Green on Approach Shot = Yes_CloselyBoarding
 End = Men Scratch
@@ -1037,7 +1038,7 @@ Crossing Carry = CanCarry
 Tree Chute = No W >30 D 0 OverUnder_No
 Trees Obstruct LZ or Green = No
 Trees Overall = Minor Problem Adj_-1
-Add LZ = No IsApproachShot_Yes ApproachShotDist ?
+Add LZ = No IsApproachShot_Yes ApproachShotDist ? :Shot can CARRY to Green Center
 Green Visible = CanSee1/2orMore ObstructedByTrees_No
 Bunker(s) Protecting > 1/2 Green on Approach Shot = Yes_CloselyBoarding
 End = Men Scratch
@@ -1063,7 +1064,7 @@ Crossing Carry = CanCarry
 Tree Chute = No W >30 D 0 OverUnder_No
 Trees Obstruct LZ or Green = No
 Trees Overall = Minor Problem Adj_No
-Add LZ = No IsApproachShot_Yes ApproachShotDist ?
+Add LZ = No IsApproachShot_Yes ApproachShotDist ? :Shot can CARRY to Green Center
 Green Visible = CanSee1/2orMore ObstructedByTrees_No
 Bunker(s) Protecting > 1/2 Green on Approach Shot = No
 End = Women Scratch
@@ -1076,8 +1077,9 @@ Crossing Carry = CanCarry
 Tree Chute = No W >30 D 0 OverUnder_No
 Trees Obstruct LZ or Green = No
 Trees Overall = Minor Problem Adj_No
-Add LZ = No IsApproachShot_No ApproachShotDist ?
-Next Landing Zone Not Visible = No
+Add LZ = No IsApproachShot_Yes ApproachShotDist ? :Shot can CARRY to Green Center
+Green Visible = CanSee1/2orMore ObstructedByTrees_No
+Bunker(s) Protecting > 1/2 Green on Approach Shot = No
 Shot 1,  150 yds Landing Zone 1:  6 yds to Green Center  LZLoc,,,,kml LZLoc,,,,GPS
 Type of Position Change = TransitionZone LZ10ydsInFront_No Adj_No Front 8 yds Back 2 yds
 Layup = DistAtStart 156 CalcRemaining 6 ActualShot 150 Remaining 6 ChoiceLayup 0 FullShotDist 150
@@ -1259,7 +1261,7 @@ Crossing Carry = CanCarry
 Tree Chute = No W >30 D 0 OverUnder_No
 Trees Obstruct LZ or Green = No
 Trees Overall = Minor Problem Adj_-1
-Add LZ = No IsApproachShot_No ApproachShotDist ?
+Add LZ = No IsApproachShot_No ApproachShotDist ? :Shot can CARRY to Green Center
 Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  332 yds to Green Center  LZLoc,36.09604857041821,-115.3489190072991,3039,kml LZLoc,,,,GPS
 Type of Position Change = None
@@ -1521,22 +1523,23 @@ Crossing Carry = CanCarry
 Tree Chute = No W >30 D 0 OverUnder_No
 Trees Obstruct LZ or Green = No
 Trees Overall = Minor Problem Adj_-1
-Add LZ = No IsApproachShot_No ApproachShotDist ?
+Add LZ = No IsApproachShot_No ApproachShotDist ? :Shot can CARRY to Green Center
 Next Landing Zone Not Visible = No
-Shot 1, 266 yds Landing Zone 1:  236 yds to Green Center  LZLoc,36.09605797608541,-115.3479749036996,3032,kml LZLoc,,,,GPS
+Shot 1, 266 yds Landing Zone 1: 236 yds to Green Center LZLoc,36.09605797608541,-115.3479749036996,3032,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 502 CalcRemaining 236 ActualShot 266 Remaining 236 ChoiceLayup 0 FullShotDist 266
 Roll = DownHill Slope_Minor FirmSoft_No
-Fairway = 26 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No 
+Fairway = 26 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 38 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
-Lateral PA = >50 100%T Bounce_No >50 0%R Bounce_No
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No
 TOPO = StanceOrLie_Minor ApproachAltitude 0 GreenAltitude 0 AppAlt,0,KeyIn GreenAlt,0,KeyIn
 Fairway Bunkers = Yes_NearLZ Squeeze_No CarrySignitcantBunker_No ExtremeBunkers_No FwayBunkerAtGreen_No 
-Add LZ = No IsApproachShot_No ApproachShotDist ?
-Next Landing Zone Not Visible = No
+Add LZ = No IsApproachShot_Yes ApproachShotDist ? :Shot can CARRY to Green Center
+Green Visible = CanSee1/2orMore ObstructedByTrees_No
+Bunker(s) Protecting > 1/2 Green on Approach Shot = No
 Trees Obstruct LZ or Green = No
 Crossing PA/OB/ER = No 0 0%R CloseFrontGreen_No
 Crossing Rough = No 0
