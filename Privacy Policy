@@ -1,4 +1,4 @@
-This Douument has 3 parts
+This Document has 3 parts
 1. TRADEMARKS
 2. PRIVACY POLICY
 3. LICENSE
@@ -61,8 +61,8 @@ data transfer.
 
 If a GPS is connected Location points can be recorded for Tees, Pivot Points, Landing Zones, and Greens. 
 The user manually activates the recording of these position points. The Location data is used to provide 
-distance information between the recorded points. There is also a trace file that automatically records the 
-path of the device.
+distance information between the recorded points. In some cases there maybe a trace file that 
+automatically records the path of the device.
 
 If you do not want us to use your location for the purposes set forth above, you should turn off the 
 location services for the mobile application located in your account settings or in your mobile phone settings 
