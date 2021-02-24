@@ -1,0 +1,80 @@
+This Document has 3 parts
+1. TRADEMARKS
+2. PRIVACY POLICY
+3. LICENSE
+
+TRADEMARKS
+
+The USGA and The R&A Together, the USGA and The R&A are responsible for writing and interpreting the Rules of Handicapping and the Course Rating System. The USGA and The R&A are the joint governing authorities of the World Handicap System and are responsible for authorizing the use of the World Handicap System.
+
+The following trademarks and service marks are owned or licensed by the USGA and The R&A; all rights reserved: World Handicap System™, WHS™, Handicap Index®, Score Differential™,Low Handicap Index™, Course Handicap™, Playing Handicap™, Course Rating™, Bogey Rating™, Slope Rating™.
+
+Regional Golf Associations, National Associations, Multi-National Associations are Collectively known as Authorized Associations.
+
+Any organization that is not authorized to use the World Handicap System is prohibited from using these marks or any part of the World Handicap System. This includes the Course Rating System and the handicap calculation formula, except when the organization provides handicapping products or services to a golf club through an Authorized Association.
+
+The Course Rating System, and all other Rating terms used in this App are trademarks and service marks of the World Handicap System, USGA, and the R&A.
+
+This App is for use by Rating personal working under an Authorized Association. Only an Authorized Association can issue Course Rating/Slope.
+
+
+
+PRIVACY POLICY
+
+This privacy policy governs your use of the software application “Course Rating Assistant” for mobile and desktop devices that was created by Lew Carlson for EasyRate. The Application is to help automate the Golf Course Rating process. The end result is Course Rating and Course Slope numbers to be used for handicap purposes. The data produced during use of this App will be supplied to the Authorized Association that is responsible for determining and issuing Course Ratings and Slope Ratings for all of the golf courses within its jurisdiction. They are the only ones that can produce the official Course Rating and Course Slope. 
+
+User Provided Information:
+The Application obtains no information when you download the Application. App users identify their work with names or initials as part of the data set. This will typically be the Team members creating the course data. 
+
+This Application records information about Golf courses. This includes all data the user imported from Mapping Applications and any entered by the user. This App can import and export very specific position and rating information from/to an external map program (like Google Earth). If an external map program is to be used, the user must install the map program independent of this Application and configure it to start on a file type of .kml.
+
+When you contact us for help your name, email address, and all other information you supply will be saved. We may also use the information you provided to contact you from time to time to provide the results of your inquiry, important information, and required notices. 
+ 
+Automatically Collected Information:
+If multiple Teams each use this App, at the end of Measurement and/or Rating, files from each device can be transferred to a single device to create a consolidated result. Device names are included as part of this data transfer.
+
+If a GPS/GNSS function is used, Location points can be recorded for Tees, Pivot Points, Landing Zones, and Greens. The user manually activates the recording of these position points. The Location data is used to provide distance information between the recorded points. In some cases there maybe a trace file that automatically records the path of the device.
+
+If you do not want us to use your location for the purposes set forth above, you should turn off the location services for the mobile application located in your account settings or in your mobile phone settings and/or the Bluetooth connection to an external GPS unit.  
+
+The Application does not provide automatic third party access to information obtained during use of the App. An internet connection is only needed during installation of the App, sharing of files between users, or if an external App (like Google Earth) needs to down load map information. 
+
+We will disclose User Provided and Automatically Collected Information:
+The data produced by this App is the property of the Golf Course Rating Authority in the area of use. The function of this App is to provide the Rating data to that Authority as they are the only ones that can produce the official Course Rating and Course Slope. 
+
+Also if required by law, such as to comply with a subpoena, or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+
+What are my opt-out rights:
+You can stop all collection of information by the Application easily by uninstalling the Application. Use the standard uninstall processes available as part of your device.  
+
+Data Retention Policy, Managing Your Information:
+The Golf Course Rating Authority in the area of use may retain User Provided data and Automatically Collected information for as long as necessary. Golf Courses are Rated when first built, after 5 years and then after every 10 years.
+
+Data produced during the use of this App may or may not remain on the Device even if the App is removed. It is up to the user to remove it if so desired.
+ 
+Children:
+We do not use the Application to knowingly solicit data from or market to children under the age of 13.
+ 
+Security:
+We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches. 
+
+Changes:
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. 
+ 
+Your Consent:
+By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.  
+
+Contact us:
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at EasyRateCRA@gmail.com.
+
+
+
+LICENSE
+
+Copyright (c) 2016 LewCarlson
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
