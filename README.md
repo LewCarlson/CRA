@@ -1,5 +1,6 @@
 # CRA
-Course Rating Assistant, Automation of the World Wide Golf Course Rating Process
+Course Rating Assistant, Automation of the World Wide Golf Course Rating Process.
+
 A user must still have all the knowledge currently used in Rating. But this App records all inputs, provides position info,
 calculates obstacle values using the rating tables and produces the results in a .csv file.
 
