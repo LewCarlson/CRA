@@ -1,9 +1,12 @@
 # CRA
 Course Rating Assistant, Automation of the Golf Course Rating Process
 
-This is the Windows 10 version of CRA Refered to as W10CRA
-Visual Studio and Visual Basic are its tools.
+This App is made up of 3 parts all use Visual Studio:
+  W10CRA            Visual Basic UI + Visual Basic Backing Logic
+  CRAClassLibrary   W10CRA Backing Logic (.Net Standard)
+  MobileCRA         Xamarin UI + CRAClassLibrary
 
-Parts of this software are used to create a Libary (dll) to be used in MobileCRA.
-I do this with Visual Studio on my machine and include the result in MobileCRA resources.
-Any change to the "Backing Logic" is added to the CRALib 
+Any change to the W10CRA "Backing Logic" is added to the CRAClassLibrary the result is included in MobileCRA resources.
+
+As of 5/9/2021 MobileCRA is only available on Android. Don't have access to an Apple machine at this time. 
+
