@@ -1,5 +1,6 @@
-Course Rating Assistant (Rating File Level: V3.18)
+Course Rating Assistant (Rating File Level: V3.19)
 Notes: Based on The Course Rating System 2016-2017 Plus Penalty Areas Converted To 2020 Course Rating System
+Rater = LewCa On 8/28/2021 12:23:29 PM
 Rater =  On 4/17/2020 8:07:58 AM
 Course Setup by Lew On 9/17/2017 6:30:41 PM
 
@@ -21,7 +22,6 @@ Use Rough Height With Tweener = Yes
 Average Rough Height = Warm Season 1.5''
 
 Average Stimpmeter = 6'11''_or_Less
-Course has Desert = No
 
 Team Leader Men = Jack Smith
 Team Leader Women = Jan Smith
@@ -36,8 +36,9 @@ Tee Name3 = 3Clubs Men Women ScoreCardLength 363 157 507 360 293 542 121 404 384
 Tee Name4 = 4Clubs Men Women ScoreCardLength 334 155 475 339 270 482 110 373 335 385 155 277 354 441 318 126 331 448
 Tee Name5 = 5Clubs Men Women ScoreCardLength 317 115 432 278 223 438 101 330 300 350 135 234 340 400 240 100 280 410
 Tee Name6 = 
+Only TeeCrossing / Green = RateCrossing,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18 RateGreen,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
 Pace Policy = CartsRequired_No CartsOnPath_2_7_11_16 ManyWalking_No HalfWayHouse_4,5_9,10_13,14
-Settings = RateControls_Left Keypad_Enable AirLine_Enable 
+Settings = NotUsed NotUsed AirLine_Enable
 End = Course Info
 
 Start = Hole 1
@@ -82,7 +83,7 @@ Obstacle Crossing Close At Green = No
 End = Green
 
 Start = Tee 1
-Tee = 1
+Tee = Crown
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -91,7 +92,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -108,7 +109,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = 2
+Tee = 2Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -117,7 +118,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -134,7 +135,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = 3
+Tee = 3Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -143,7 +144,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -160,7 +161,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = 4
+Tee = 4Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -169,7 +170,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -186,7 +187,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 5
+Tee = 5Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -195,7 +196,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -221,7 +222,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -281,7 +282,7 @@ Obstacle Crossing Close At Green = No
 End = Green
 
 Start = Tee 1
-Tee = 1
+Tee = Crown
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -290,7 +291,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -307,7 +308,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = 2
+Tee = 2Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -316,7 +317,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -333,7 +334,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = 3
+Tee = 3Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -342,7 +343,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -359,7 +360,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = 4
+Tee = 4Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -368,7 +369,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -385,7 +386,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 5
+Tee = 5Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -394,7 +395,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -420,7 +421,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -480,7 +481,7 @@ Obstacle Crossing Close At Green = No
 End = Green
 
 Start = Tee 1
-Tee = 1
+Tee = Crown
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -489,7 +490,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -506,7 +507,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = 2
+Tee = 2Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -515,7 +516,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -532,7 +533,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = 3
+Tee = 3Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -541,7 +542,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -558,7 +559,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = 4
+Tee = 4Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -567,7 +568,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -584,7 +585,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 5
+Tee = 5Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -593,7 +594,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -619,7 +620,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -679,7 +680,7 @@ Obstacle Crossing Close At Green = No
 End = Green
 
 Start = Tee 1
-Tee = 1
+Tee = Crown
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -688,7 +689,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -705,7 +706,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = 2
+Tee = 2Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -714,7 +715,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -731,7 +732,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = 3
+Tee = 3Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -740,7 +741,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -757,7 +758,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = 4
+Tee = 4Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -766,7 +767,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -783,7 +784,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 5
+Tee = 5Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -792,7 +793,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -818,7 +819,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -878,7 +879,7 @@ Obstacle Crossing Close At Green = No
 End = Green
 
 Start = Tee 1
-Tee = 1
+Tee = Crown
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -887,7 +888,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -904,7 +905,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = 2
+Tee = 2Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -913,7 +914,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -930,7 +931,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = 3
+Tee = 3Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -939,7 +940,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -956,7 +957,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = 4
+Tee = 4Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -965,7 +966,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -982,7 +983,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 5
+Tee = 5Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -991,7 +992,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1017,7 +1018,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1077,7 +1078,7 @@ Obstacle Crossing Close At Green = No
 End = Green
 
 Start = Tee 1
-Tee = 1
+Tee = Crown
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1086,7 +1087,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1103,7 +1104,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = 2
+Tee = 2Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1112,7 +1113,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1129,7 +1130,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = 3
+Tee = 3Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1138,7 +1139,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1155,7 +1156,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = 4
+Tee = 4Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1164,7 +1165,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1181,7 +1182,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 5
+Tee = 5Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1190,7 +1191,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1216,7 +1217,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1276,7 +1277,7 @@ Obstacle Crossing Close At Green = No
 End = Green
 
 Start = Tee 1
-Tee = 1
+Tee = Crown
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1285,7 +1286,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1302,7 +1303,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = 2
+Tee = 2Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1311,7 +1312,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1328,7 +1329,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = 3
+Tee = 3Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1337,7 +1338,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1354,7 +1355,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = 4
+Tee = 4Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1363,7 +1364,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1380,7 +1381,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 5
+Tee = 5Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1389,7 +1390,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1415,7 +1416,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1475,7 +1476,7 @@ Obstacle Crossing Close At Green = No
 End = Green
 
 Start = Tee 1
-Tee = 1
+Tee = Crown
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1484,7 +1485,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1501,7 +1502,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = 2
+Tee = 2Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1510,7 +1511,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1527,7 +1528,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = 3
+Tee = 3Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1536,7 +1537,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1553,7 +1554,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = 4
+Tee = 4Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1562,7 +1563,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1579,7 +1580,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 5
+Tee = 5Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1588,7 +1589,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1614,7 +1615,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1674,7 +1675,7 @@ Obstacle Crossing Close At Green = No
 End = Green
 
 Start = Tee 1
-Tee = 1
+Tee = Crown
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1683,7 +1684,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1700,7 +1701,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = 2
+Tee = 2Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1709,7 +1710,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1726,7 +1727,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = 3
+Tee = 3Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1735,7 +1736,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1752,7 +1753,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = 4
+Tee = 4Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1761,7 +1762,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1778,7 +1779,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 5
+Tee = 5Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1787,7 +1788,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1813,7 +1814,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1873,7 +1874,7 @@ Obstacle Crossing Close At Green = No
 End = Green
 
 Start = Tee 1
-Tee = 1
+Tee = Crown
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1882,7 +1883,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1899,7 +1900,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = 2
+Tee = 2Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1908,7 +1909,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1925,7 +1926,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = 3
+Tee = 3Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1934,7 +1935,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1951,7 +1952,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = 4
+Tee = 4Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1960,7 +1961,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1977,7 +1978,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 5
+Tee = 5Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1986,7 +1987,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2012,7 +2013,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2072,7 +2073,7 @@ Obstacle Crossing Close At Green = No
 End = Green
 
 Start = Tee 1
-Tee = 1
+Tee = Crown
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2081,7 +2082,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2098,7 +2099,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = 2
+Tee = 2Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2107,7 +2108,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2124,7 +2125,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = 3
+Tee = 3Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2133,7 +2134,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2150,7 +2151,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = 4
+Tee = 4Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2159,7 +2160,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2176,7 +2177,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 5
+Tee = 5Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2185,7 +2186,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2211,7 +2212,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2271,7 +2272,7 @@ Obstacle Crossing Close At Green = No
 End = Green
 
 Start = Tee 1
-Tee = 1
+Tee = Crown
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2280,7 +2281,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2297,7 +2298,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = 2
+Tee = 2Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2306,7 +2307,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2323,7 +2324,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = 3
+Tee = 3Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2332,7 +2333,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2349,7 +2350,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = 4
+Tee = 4Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2358,7 +2359,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2375,7 +2376,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 5
+Tee = 5Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2384,7 +2385,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2410,7 +2411,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2470,7 +2471,7 @@ Obstacle Crossing Close At Green = No
 End = Green
 
 Start = Tee 1
-Tee = 1
+Tee = Crown
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2479,7 +2480,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2496,7 +2497,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = 2
+Tee = 2Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2505,7 +2506,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2522,7 +2523,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = 3
+Tee = 3Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2531,7 +2532,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2548,7 +2549,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = 4
+Tee = 4Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2557,7 +2558,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2574,7 +2575,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 5
+Tee = 5Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2583,7 +2584,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2609,7 +2610,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2669,7 +2670,7 @@ Obstacle Crossing Close At Green = No
 End = Green
 
 Start = Tee 1
-Tee = 1
+Tee = Crown
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2678,7 +2679,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2695,7 +2696,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = 2
+Tee = 2Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2704,7 +2705,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2721,7 +2722,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = 3
+Tee = 3Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2730,7 +2731,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2747,7 +2748,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = 4
+Tee = 4Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2756,7 +2757,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2773,7 +2774,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 5
+Tee = 5Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2782,7 +2783,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2808,7 +2809,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2868,7 +2869,7 @@ Obstacle Crossing Close At Green = No
 End = Green
 
 Start = Tee 1
-Tee = 1
+Tee = Crown
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2877,7 +2878,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2894,7 +2895,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = 2
+Tee = 2Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2903,7 +2904,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2920,7 +2921,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = 3
+Tee = 3Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2929,7 +2930,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2946,7 +2947,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = 4
+Tee = 4Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2955,7 +2956,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2972,7 +2973,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 5
+Tee = 5Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2981,7 +2982,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3007,7 +3008,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3067,7 +3068,7 @@ Obstacle Crossing Close At Green = No
 End = Green
 
 Start = Tee 1
-Tee = 1
+Tee = Crown
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3076,7 +3077,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3093,7 +3094,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = 2
+Tee = 2Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3102,7 +3103,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3119,7 +3120,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = 3
+Tee = 3Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3128,7 +3129,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3145,7 +3146,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = 4
+Tee = 4Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3154,7 +3155,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3171,7 +3172,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 5
+Tee = 5Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3180,7 +3181,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3206,7 +3207,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3266,7 +3267,7 @@ Obstacle Crossing Close At Green = No
 End = Green
 
 Start = Tee 1
-Tee = 1
+Tee = Crown
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3275,7 +3276,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3292,7 +3293,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = 2
+Tee = 2Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3301,7 +3302,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3318,7 +3319,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = 3
+Tee = 3Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3327,7 +3328,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3344,7 +3345,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = 4
+Tee = 4Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3353,7 +3354,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3370,7 +3371,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 5
+Tee = 5Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3379,7 +3380,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3405,7 +3406,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3465,7 +3466,7 @@ Obstacle Crossing Close At Green = No
 End = Green
 
 Start = Tee 1
-Tee = 1
+Tee = Crown
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3474,7 +3475,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3491,7 +3492,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = 2
+Tee = 2Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3500,7 +3501,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3517,7 +3518,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = 3
+Tee = 3Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3526,7 +3527,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3543,7 +3544,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = 4
+Tee = 4Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3552,7 +3553,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3569,7 +3570,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 5
+Tee = 5Clubs
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3578,7 +3579,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3604,7 +3605,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch

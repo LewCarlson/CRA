@@ -1,5 +1,7 @@
-Course Rating Assistant (Rating File Level: V3.18)
+Course Rating Assistant (Rating File Level: V3.19)
 Notes: Based on Course Rating System 2016-2017 Plus Penalty Areas Converted To 2020 Course Rating System
+Rater = LewCa On 8/28/2021 12:22:06 PM
+Rater = LewCa On 8/28/2021 12:22:06 PM
 Rater = Lew On 5/23/2020 10:26:48 AM
 Rater = Lew On 4/17/2020 8:15:36 AM
 Rater = L On 10/26/2019 6:50:47 PM
@@ -32,7 +34,6 @@ Use Rough Height With Tweener = Yes
 Average Rough Height = Warm Season 1.5''
 
 Average Stimpmeter = 6'11''_or_Less
-Course has Desert = No
 
 Team Leader Men = Jack Smith
 Team Leader Women = Jan Smith
@@ -47,8 +48,9 @@ Tee Name3 = 3Clubs Men Women ScoreCardLength 363 157 507 360 293 542 121 404 384
 Tee Name4 = 4Clubs Men Women ScoreCardLength 334 155 475 339 270 482 110 373 335 385 155 277 354 441 318 126 331 448
 Tee Name5 = 5Clubs Men Women ScoreCardLength 317 115 432 278 223 438 101 330 300 350 135 234 340 400 240 100 280 410
 Tee Name6 = 
+Only TeeCrossing / Green = 
 Pace Policy = CartsRequired_No CartsOnPath_2_7_11_16 ManyWalking_No HalfWayHouse_4,5_9,10_13,14
-Settings = RateControls_Left Keypad_Enable AirLine_Enable 
+Settings = NotUsed NotUsed AirLine_Enable
 End = Course Info
 
 Start = Hole 1
@@ -84,13 +86,13 @@ Circle 4 Width =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Depth =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Percent =  ,kml ,KeyIn
 Green UNPLEASANT = No
-Green is TIERED = No
+Green Is TIERED = No
 Contour of Green Surface = Moderate Contour or Moderately Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
 R&R = RoughInconsistent_No RiseOrDrop_>5 Unpleasant_No
 Obstacle Crossing Close At Green = No
-End = Green
+End = Green  IsRated
 
 Start = Tee 1
 Tee = Crown
@@ -117,7 +119,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 266 yds Landing Zone 1:  133 yds to Green Center  LZLoc,36.09763478707515,-115.3486631038318,3026,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 399 CalcRemaining 133 ActualShot 266 Remaining 133 ChoiceLayup 0 FullShotDist 266
-Roll = DownHill Slope_Minor FirmSoft_No
+Roll = DownHill Slope_Minor FirmSoft_No 
 Lateral ER = 33 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -149,7 +151,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 213 yds Landing Zone 1:  186 yds to Green Center  LZLoc,36.09782016218281,-115.3492275285061,3033,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 399 CalcRemaining 186 ActualShot 213 Remaining 186 ChoiceLayup 0 FullShotDist 213
-Roll = DownHill Slope_Minor FirmSoft_No
+Roll = DownHill Slope_Minor FirmSoft_No 
 Lateral ER = 28 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -219,7 +221,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  119 yds to Green Center LZLoc,36.09756164621692,-115.3485885403898,3022,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 380 CalcRemaining 119 ActualShot 261 Remaining 119 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = >50 100%T Bounce_No >50 0%R Bounce_No
@@ -252,7 +254,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  172 yds to Green Center LZLoc,36.09775131373166,-115.3491327363004,3031,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 380 CalcRemaining 172 ActualShot 208 Remaining 172 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = >50 100%T Bounce_No >50 0%R Bounce_No
@@ -304,7 +306,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  101 yds to Green Center  LZLoc,36.09747284583452,-115.3484576567525,3026,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 362 CalcRemaining 101 ActualShot 261 Remaining 101 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 36 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 23 50%T Bounce_No >50 0%R Bounce_No
@@ -337,7 +339,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  154 yds to Green Center  LZLoc,36.09770272150138,-115.3489626605545,3028,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 362 CalcRemaining 154 ActualShot 208 Remaining 154 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 35 50%T Bounce_No >50 0%R Bounce_No
@@ -370,7 +372,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  143 yds to Green Center  LZLoc,36.09767725040216,-115.3488334946581,3027,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 362 CalcRemaining 143 ActualShot 219 Remaining 143 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 40 50%T Bounce_No >50 0%R Bounce_No
@@ -403,7 +405,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  212 yds to Green Center  LZLoc,36.09796960638145,-115.3494614656668,3046,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 362 CalcRemaining 212 ActualShot 150 Remaining 212 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 38 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 23 50%T Bounce_No >50 0%R Bounce_No
@@ -468,7 +470,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 266 yds Landing Zone 1:  66 yds to Green Center  LZLoc,36.09723280437887,-115.3483118221668,3020,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 332 CalcRemaining 66 ActualShot 266 Remaining 66 ChoiceLayup 0 FullShotDist 266
-Roll = DownHill Slope_Minor FirmSoft_No
+Roll = DownHill Slope_Minor FirmSoft_No 
 Lateral ER = 30 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -500,7 +502,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  124 yds to Green Center  LZLoc,36.09761821654963,-115.3486605236046,3025,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 332 CalcRemaining 124 ActualShot 208 Remaining 124 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 32 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -532,7 +534,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  113 yds to Green Center  LZLoc,36.09756798928542,-115.3485635668776,3024,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 332 CalcRemaining 113 ActualShot 219 Remaining 113 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 45 50%T Bounce_No >50 0%R Bounce_No
@@ -565,7 +567,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  182 yds to Green Center  LZLoc,36.09784523567839,-115.3492306645011,3033,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 332 CalcRemaining 182 ActualShot 150 Remaining 182 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 31 50%T Bounce_No >50 0%R Bounce_No
@@ -630,7 +632,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 266 yds Landing Zone 1:  49 yds to Green Center LZLoc,36.09709820251685,-115.348227452195,3014,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 315 CalcRemaining 49 ActualShot 266 Remaining 49 ChoiceLayup 0 FullShotDist 266
-Roll = DownHill Slope_Minor FirmSoft_No
+Roll = DownHill Slope_Minor FirmSoft_No 
 Lateral ER = 28 75%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -663,7 +665,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 218 yds Landing Zone 1:  97 yds to Green Center LZLoc,36.09745457733062,-115.3484496138127,3026,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 315 CalcRemaining 97 ActualShot 218 Remaining 97 ChoiceLayup 0 FullShotDist 218
-Roll = DownHill Slope_Moderate FirmSoft_No
+Roll = DownHill Slope_Moderate FirmSoft_No 
 Lateral ER = 20 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -695,7 +697,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  96 yds to Green Center LZLoc,36.09745156145816,-115.348444399565,3026,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 315 CalcRemaining 96 ActualShot 219 Remaining 96 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 34 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 22 50%T Bounce_No >50 0%R Bounce_No
@@ -727,7 +729,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  165 yds to Green Center LZLoc,36.0977287955489,-115.349113645888,3030,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 315 CalcRemaining 165 ActualShot 150 Remaining 165 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 30 50%T Bounce_No >50 0%R Bounce_No
@@ -776,7 +778,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -829,13 +831,13 @@ Circle 4 Width =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Depth =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Percent =  ,kml ,KeyIn
 Green UNPLEASANT = No
-Green is TIERED = No
+Green Is TIERED = No
 Contour of Green Surface = Moderate Contour or Moderately Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
 R&R = RoughInconsistent_No RiseOrDrop_No Unpleasant_No
 Obstacle Crossing Close At Green = No
-End = Green
+End = Green  IsRated
 
 Start = Tee 1
 Tee = Crown
@@ -997,7 +999,7 @@ Bunker(s) Protecting > 1/2 Green on Approach Shot = No
 Shot 1,  150 yds Landing Zone 1:  8 yds to Green Center  LZLoc,,,,kml LZLoc,,,,GPS
 Type of Position Change = TransitionZone LZ10ydsInFront_No Adj_No Front 8 yds Back 2 yds
 Layup = DistAtStart 158 CalcRemaining 8 ActualShot 150 Remaining 8 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 0 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_Yes 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 27 50%T Bounce_No >50 0%R Bounce_No
@@ -1083,7 +1085,7 @@ Bunker(s) Protecting > 1/2 Green on Approach Shot = No
 Shot 1,  150 yds Landing Zone 1:  6 yds to Green Center  LZLoc,,,,kml LZLoc,,,,GPS
 Type of Position Change = TransitionZone LZ10ydsInFront_No Adj_No Front 8 yds Back 2 yds
 Layup = DistAtStart 156 CalcRemaining 6 ActualShot 150 Remaining 6 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 0 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_Yes 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = >50 100%T Bounce_No >50 0%R Bounce_No
@@ -1180,7 +1182,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -1233,13 +1235,13 @@ Circle 4 Width =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Depth =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Percent =  ,kml ,KeyIn
 Green UNPLEASANT = No
-Green is TIERED = No
+Green Is TIERED = No
 Contour of Green Surface = Moderate Contour or Moderately Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
 R&R = RoughInconsistent_No RiseOrDrop_No Unpleasant_No
 Obstacle Crossing Close At Green = No
-End = Green
+End = Green  IsRated
 
 Start = Tee 1
 Tee = Crown
@@ -1266,7 +1268,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  332 yds to Green Center  LZLoc,36.09604857041821,-115.3489190072991,3039,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 593 CalcRemaining 332 ActualShot 261 Remaining 332 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 35 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -1316,7 +1318,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  385 yds to Green Center  LZLoc,36.09603589950351,-115.3494431906197,3040,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 593 CalcRemaining 385 ActualShot 208 Remaining 385 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 23 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -1407,7 +1409,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  296 yds to Green Center LZLoc,36.09607326144163,-115.3485739104439,3040,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 557 CalcRemaining 296 ActualShot 261 Remaining 296 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 31 50%T Bounce_No >50 0%R Bounce_No
@@ -1458,7 +1460,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  349 yds to Green Center LZLoc,36.09601547298355,-115.3491137518481,3036,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 557 CalcRemaining 349 ActualShot 208 Remaining 349 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 33 50%T Bounce_No >50 0%R Bounce_No
@@ -1528,7 +1530,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 266 yds Landing Zone 1: 236 yds to Green Center LZLoc,36.09605797608541,-115.3479749036996,3032,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 502 CalcRemaining 236 ActualShot 266 Remaining 236 ChoiceLayup 0 FullShotDist 266
-Roll = DownHill Slope_Minor FirmSoft_No
+Roll = DownHill Slope_Minor FirmSoft_No 
 Fairway = 26 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 38 50%T Bounce_No >50 0%R Bounce_No
@@ -1580,7 +1582,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 218 yds Landing Zone 1:  284 yds to Green Center  LZLoc,36.09608120856793,-115.348463248538,3039,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 502 CalcRemaining 284 ActualShot 218 Remaining 284 ChoiceLayup 0 FullShotDist 218
-Roll = DownHill Slope_Moderate FirmSoft_No
+Roll = DownHill Slope_Moderate FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 31 50%T Bounce_No >50 0%R Bounce_No
@@ -1631,7 +1633,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  283 yds to Green Center  LZLoc,36.09607967941983,-115.3484522419654,3039,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 502 CalcRemaining 283 ActualShot 219 Remaining 283 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 34 50%T Bounce_No >50 0%R Bounce_No
@@ -1682,7 +1684,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  352 yds to Green Center  LZLoc,36.09602900959286,-115.349154619354,3037,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 502 CalcRemaining 352 ActualShot 150 Remaining 352 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 34 50%T Bounce_No >50 0%R Bounce_No
@@ -1765,7 +1767,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  212 yds to Green Center  LZLoc,36.09596291689328,-115.3477209541261,3025,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 473 CalcRemaining 212 ActualShot 261 Remaining 212 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -1797,7 +1799,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  265 yds to Green Center  LZLoc,36.09610526518289,-115.3482594984061,3037,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 473 CalcRemaining 265 ActualShot 208 Remaining 265 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 29 75%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -1847,7 +1849,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  254 yds to Green Center  LZLoc,36.09611798817715,-115.3481470312347,3036,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 473 CalcRemaining 254 ActualShot 219 Remaining 254 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 38 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 30 50%T Bounce_No >50 0%R Bounce_No
@@ -1898,7 +1900,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  323 yds to Green Center  LZLoc,36.09607593323117,-115.3488487380838,3040,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 473 CalcRemaining 323 ActualShot 150 Remaining 323 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 30 50%T Bounce_No >50 0%R Bounce_No
@@ -1981,7 +1983,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 266 yds Landing Zone 1:  162 yds to Green Center LZLoc,36.09605039539743,-115.3471844674688,3020,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 428 CalcRemaining 162 ActualShot 266 Remaining 162 ChoiceLayup 0 FullShotDist 266
-Roll = DownHill Slope_Minor FirmSoft_No
+Roll = DownHill Slope_Minor FirmSoft_No 
 Lateral ER = 27 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -2014,7 +2016,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 213 yds Landing Zone 1:  215 yds to Green Center LZLoc,36.09596291689328,-115.3477209541261,3025,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 428 CalcRemaining 215 ActualShot 213 Remaining 215 ChoiceLayup 0 FullShotDist 213
-Roll = DownHill Slope_Minor FirmSoft_No
+Roll = DownHill Slope_Minor FirmSoft_No 
 Lateral ER = 32 50%T Bounce_Increase >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -2064,7 +2066,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  209 yds to Green Center LZLoc,36.09596630062229,-115.3476614820012,3025,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 428 CalcRemaining 209 ActualShot 219 Remaining 209 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 35 50%T Bounce_No >50 0%R Bounce_No
@@ -2116,7 +2118,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 145 yds Landing Zone 1:  283 yds to Green Center LZLoc,36.09609065973139,-115.3484115974549,3039,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 428 CalcRemaining 283 ActualShot 145 Remaining 283 ChoiceLayup 0 FullShotDist 145
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 34 50%T Bounce_No >50 0%R Bounce_No
@@ -2183,7 +2185,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2236,13 +2238,13 @@ Circle 4 Width =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Depth =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Percent =  ,kml ,KeyIn
 Green UNPLEASANT = No
-Green is TIERED = No
+Green Is TIERED = No
 Contour of Green Surface = Relatively Flat or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
 R&R = RoughInconsistent_No RiseOrDrop_No Unpleasant_No
 Obstacle Crossing Close At Green = No
-End = Green
+End = Green  IsRated
 
 Start = Tee 1
 Tee = Crown
@@ -2269,7 +2271,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  165 yds to Green Center LZLoc,36.09746812724267,-115.3446835110822,2976,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 426 CalcRemaining 165 ActualShot 261 Remaining 165 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 29 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -2301,7 +2303,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 203 yds Landing Zone 1:  223 yds to Green Center LZLoc,36.09699303590462,-115.3446097459727,2965,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 426 CalcRemaining 223 ActualShot 203 Remaining 223 ChoiceLayup 0 FullShotDist 203
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Lateral ER = 24 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -2371,7 +2373,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  128 yds to Green Center LZLoc,36.09778152409361,-115.3445993291051,2972,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 389 CalcRemaining 128 ActualShot 261 Remaining 128 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 40 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 23 50%T Bounce_No >50 0%R Bounce_No
@@ -2404,7 +2406,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  181 yds to Green Center LZLoc,36.09733948075093,-115.3446369354238,2974,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 389 CalcRemaining 181 ActualShot 208 Remaining 181 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 44 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 25 50%T Bounce_No >50 0%R Bounce_No
@@ -2475,7 +2477,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 256 yds Landing Zone 1:  104 yds to Green Center  LZLoc,36.09799023678971,-115.3446112465206,2975,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 360 CalcRemaining 104 ActualShot 256 Remaining 104 ChoiceLayup 0 FullShotDist 256
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Fairway = 27 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 17 50%T Bounce_No >50 0%R Bounce_No
@@ -2508,7 +2510,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  152 yds to Green Center  LZLoc,36.09759207856627,-115.344586562816,2974,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 360 CalcRemaining 152 ActualShot 208 Remaining 152 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 30 50%T Bounce_No >50 0%R Bounce_No
@@ -2541,7 +2543,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  141 yds to Green Center  LZLoc,36.09768432040801,-115.3445843893089,2973,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 360 CalcRemaining 141 ActualShot 219 Remaining 141 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 44 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 31 50%T Bounce_No >50 0%R Bounce_No
@@ -2574,7 +2576,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 140 yds Landing Zone 1:  220 yds to Green Center  LZLoc,36.09702845890656,-115.3446170580604,2966,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 360 CalcRemaining 220 ActualShot 140 Remaining 220 ChoiceLayup 0 FullShotDist 140
-Roll = UpHill Slope_Moderate FirmSoft_No
+Roll = UpHill Slope_Moderate FirmSoft_No 
 Fairway = 37 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 24 50%T Bounce_No >50 0%R Bounce_No
@@ -2639,7 +2641,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  81 yds to Green Center  LZLoc,36.09819516150267,-115.3448258934391,2976,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 342 CalcRemaining 81 ActualShot 261 Remaining 81 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 28 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -2671,7 +2673,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  134 yds to Green Center  LZLoc,36.09776690140743,-115.3445896160024,2972,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 342 CalcRemaining 134 ActualShot 208 Remaining 134 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 27 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -2703,7 +2705,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  123 yds to Green Center  LZLoc,36.09785729923241,-115.3446030686245,2972,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 342 CalcRemaining 123 ActualShot 219 Remaining 123 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 42 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 26 50%T Bounce_No >50 0%R Bounce_No
@@ -2736,7 +2738,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  192 yds to Green Center  LZLoc,36.09728088256205,-115.3446537414676,2973,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 342 CalcRemaining 192 ActualShot 150 Remaining 192 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 41 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No 
 R&R = RoughInconsistent_No Mounds_No 
 Lateral ER = 25 50%T Bounce_No >50 0%R Bounce_No
@@ -2801,7 +2803,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 256 yds Landing Zone 1:  22 yds to Green Center LZLoc,36.09866643762598,-115.3447002395301,2982,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 278 CalcRemaining 22 ActualShot 256 Remaining 22 ChoiceLayup 0 FullShotDist 256
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Lateral ER = 20 100%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -2834,7 +2836,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 203 yds Landing Zone 1:  75 yds to Green Center LZLoc,36.09821857738497,-115.3448241563094,2976,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 278 CalcRemaining 75 ActualShot 203 Remaining 75 ChoiceLayup 0 FullShotDist 203
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Lateral ER = 20 25%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -2866,7 +2868,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  59 yds to Green Center LZLoc,36.09835320638404,-115.3448598565809,2977,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 278 CalcRemaining 59 ActualShot 219 Remaining 59 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 34 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 23 50%T Bounce_No >50 0%R Bounce_No
@@ -2899,7 +2901,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  128 yds to Green Center LZLoc,36.09778989052689,-115.3445902596203,2972,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 278 CalcRemaining 128 ActualShot 150 Remaining 128 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 42 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 26 50%T Bounce_No >50 0%R Bounce_No
@@ -2930,7 +2932,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -2983,13 +2985,13 @@ Circle 4 Width =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Depth =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Percent =  ,kml ,KeyIn
 Green UNPLEASANT = No
-Green is TIERED = No
+Green Is TIERED = No
 Contour of Green Surface = Moderate Contour or Moderately Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
 R&R = RoughInconsistent_No RiseOrDrop_>5 Unpleasant_No
 Obstacle Crossing Close At Green = No
-End = Green
+End = Green  IsRated
 
 Start = Tee 1
 Tee = Crown
@@ -3016,7 +3018,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  100 yds to Green Center LZLoc,36.10131983767254,-115.3449287076487,3016,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 361 CalcRemaining 100 ActualShot 261 Remaining 100 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 46 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -3048,7 +3050,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 203 yds Landing Zone 1:  158 yds to Green Center LZLoc,36.10084541451537,-115.344835384053,3012,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 361 CalcRemaining 158 ActualShot 203 Remaining 158 ChoiceLayup 0 FullShotDist 203
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Lateral ER = 39 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -3100,7 +3102,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  64 yds to Green Center LZLoc,36.10163365757216,-115.3450656898074,3023,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 325 CalcRemaining 64 ActualShot 261 Remaining 64 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = >50 100%T Bounce_No >50 0%R Bounce_No
@@ -3133,7 +3135,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  117 yds to Green Center LZLoc,36.10118204698846,-115.3448733425622,3017,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 325 CalcRemaining 117 ActualShot 208 Remaining 117 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = >50 100%T Bounce_No >50 0%R Bounce_No
@@ -3185,7 +3187,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 236 yds Landing Zone 1:  51 yds to Green Center LZLoc,36.10205171795514,-115.3451259542792,3024,kml LZLoc,,,,GPS
 Type of Position Change = LayupDogleg
 Layup = DistAtStart 287 CalcRemaining 26 ActualShot 236 Remaining 51 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 38 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 44 50%T Bounce_No >50 0%R Bounce_No
@@ -3218,7 +3220,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 203 yds Landing Zone 1:  84 yds to Green Center LZLoc,36.10146762572424,-115.3450160996009,3019,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 287 CalcRemaining 84 ActualShot 203 Remaining 84 ChoiceLayup 0 FullShotDist 203
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Fairway = 26 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 42 50%T Bounce_No >50 0%R Bounce_No
@@ -3250,7 +3252,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  68 yds to Green Center LZLoc,36.1016123915543,-115.3450756981194,3023,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 287 CalcRemaining 68 ActualShot 219 Remaining 68 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 45 50%T Bounce_No >50 0%R Bounce_No
@@ -3282,7 +3284,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 135 yds Landing Zone 1:  152 yds to Green Center LZLoc,36.10090257553386,-115.3448358797707,3014,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 287 CalcRemaining 152 ActualShot 135 Remaining 152 ChoiceLayup 0 FullShotDist 135
-Roll = UpHill Slope_Significant FirmSoft_No
+Roll = UpHill Slope_Significant FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 40 50%T Bounce_No >50 0%R Bounce_No
@@ -3350,7 +3352,7 @@ Bunker(s) Protecting > 1/2 Green on Approach Shot = No
 Shot 1,  261 yds Landing Zone 1:  5 yds to Green Center LZLoc,36.10209836587421,-115.3449282308759,3024,kml LZLoc,,,,GPS
 Type of Position Change = TransitionZone LZ10ydsInFront_No Adj_No Front 5 yds Back 5 yds
 Layup = DistAtStart 266 CalcRemaining 5 ActualShot 261 Remaining 5 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 42 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -3382,7 +3384,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  58 yds to Green Center LZLoc,36.10167927657596,-115.345078315782,3024,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 266 CalcRemaining 58 ActualShot 208 Remaining 58 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 38 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -3414,7 +3416,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  47 yds to Green Center LZLoc,36.10176836716305,-115.3450537115498,3024,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 266 CalcRemaining 47 ActualShot 219 Remaining 47 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 41 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 41 50%T Bounce_No >50 0%R Bounce_No
@@ -3447,7 +3449,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 145 yds Landing Zone 1:  121 yds to Green Center LZLoc,36.10114201015648,-115.3448726303546,3017,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 266 CalcRemaining 121 ActualShot 145 Remaining 121 ChoiceLayup 0 FullShotDist 145
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 40 75%T Bounce_No >50 0%R Bounce_No
@@ -3506,7 +3508,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 193 yds Landing Zone 1:  29 yds to Green Center LZLoc,36.10209318091396,-115.3448224400966,3025,kml LZLoc,,,,GPS
 Type of Position Change = LayupDogleg
 Layup = DistAtStart 222 CalcRemaining 14 ActualShot 193 Remaining 29 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 43 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -3539,7 +3541,7 @@ Bunker(s) Protecting > 1/2 Green on Approach Shot = Yes_CloselyBoarding
 Shot 1,  219 yds Landing Zone 1:  3 yds to Green Center LZLoc,,,,kml LZLoc,,,,GPS
 Type of Position Change = TransitionZone LZ10ydsInFront_No Adj_No Front 3 yds Back 7 yds
 Layup = DistAtStart 222 CalcRemaining 3 ActualShot 219 Remaining 3 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 0 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_Yes
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = >50 100%T Bounce_No >50 0%R Bounce_No
@@ -3571,7 +3573,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  72 yds to Green Center LZLoc,36.10158466242903,-115.3450826498612,3023,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 222 CalcRemaining 72 ActualShot 150 Remaining 72 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 35 50%T Bounce_No >50 0%R Bounce_No
@@ -3602,7 +3604,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -3655,13 +3657,13 @@ Circle 4 Width =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Depth =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Percent =  ,kml ,KeyIn
 Green UNPLEASANT = No
-Green is TIERED = No
+Green Is TIERED = No
 Contour of Green Surface = Moderate Contour or Moderately Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
 R&R = RoughInconsistent_No RiseOrDrop_No Unpleasant_No
 Obstacle Crossing Close At Green = No
-End = Green
+End = Green  IsRated
 
 Start = Tee 1
 Tee = Crown
@@ -3688,7 +3690,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  342 yds to Green Center LZLoc,36.10187496859303,-115.3410009777465,2973,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 603 CalcRemaining 342 ActualShot 261 Remaining 342 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 34 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -3738,7 +3740,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 213 yds Landing Zone 1:  390 yds to Green Center LZLoc,36.10174977924735,-115.3414712283139,2975,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 603 CalcRemaining 390 ActualShot 213 Remaining 390 ChoiceLayup 0 FullShotDist 213
-Roll = DownHill Slope_Minor FirmSoft_No
+Roll = DownHill Slope_Minor FirmSoft_No 
 Lateral ER = 28 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -3826,7 +3828,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  310 yds to Green Center LZLoc,36.10197204384583,-115.3407107251742,2970,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 571 CalcRemaining 310 ActualShot 261 Remaining 310 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = >50 100%T Bounce_No >50 0%R Bounce_No
@@ -3877,7 +3879,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  363 yds to Green Center LZLoc,36.10180917533241,-115.3412263811769,2974,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 571 CalcRemaining 363 ActualShot 208 Remaining 363 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = >50 100%T Bounce_No >50 0%R Bounce_No
@@ -3966,7 +3968,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 266 yds Landing Zone 1:  289 yds to Green Center LZLoc,36.10207104564545,-115.3404997308224,2969,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 555 CalcRemaining 289 ActualShot 266 Remaining 289 ChoiceLayup 0 FullShotDist 266
-Roll = DownHill Slope_Minor FirmSoft_No
+Roll = DownHill Slope_Minor FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 31 50%T Bounce_No >50 0%R Bounce_No
@@ -4017,7 +4019,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 213 yds Landing Zone 1:  342 yds to Green Center LZLoc,36.10185391028848,-115.3410081986582,2972,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 555 CalcRemaining 342 ActualShot 213 Remaining 342 ChoiceLayup 0 FullShotDist 213
-Roll = DownHill Slope_Minor FirmSoft_No
+Roll = DownHill Slope_Minor FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 41 50%T Bounce_No >50 0%R Bounce_No
@@ -4067,7 +4069,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  336 yds to Green Center LZLoc,36.1018632208691,-115.3409490413445,2970,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 555 CalcRemaining 336 ActualShot 219 Remaining 336 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 44 50%T Bounce_No >50 0%R Bounce_No
@@ -4118,7 +4120,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  405 yds to Green Center LZLoc,36.10170441729826,-115.3416259559807,2977,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 555 CalcRemaining 405 ActualShot 150 Remaining 405 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 43 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 25 50%T Bounce_No >50 0%R Bounce_No
@@ -4219,7 +4221,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  226 yds to Green Center LZLoc,36.10215373902713,-115.3398894145712,2956,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 487 CalcRemaining 226 ActualShot 261 Remaining 226 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 32 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -4251,7 +4253,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  279 yds to Green Center LZLoc,36.1020842742332,-115.3404231884165,2967,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 487 CalcRemaining 279 ActualShot 208 Remaining 279 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -4301,7 +4303,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  268 yds to Green Center LZLoc,36.10210466981615,-115.3403129934778,2964,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 487 CalcRemaining 268 ActualShot 219 Remaining 268 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 30 75%T Bounce_No >50 0%R Bounce_No
@@ -4352,7 +4354,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  337 yds to Green Center LZLoc,36.1018661951419,-115.3409814813056,2972,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 487 CalcRemaining 337 ActualShot 150 Remaining 337 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 30 75%T Bounce_No >50 0%R Bounce_No
@@ -4434,7 +4436,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 266 yds Landing Zone 1:  183 yds to Green Center LZLoc,36.10224650372853,-115.3394449528354,2950,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 449 CalcRemaining 183 ActualShot 266 Remaining 183 ChoiceLayup 0 FullShotDist 266
-Roll = DownHill Slope_Minor FirmSoft_No
+Roll = DownHill Slope_Minor FirmSoft_No 
 Lateral ER = 29 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -4467,7 +4469,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 213 yds Landing Zone 1:  236 yds to Green Center LZLoc,36.10213852637065,-115.3399757455954,2958,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 449 CalcRemaining 236 ActualShot 213 Remaining 236 ChoiceLayup 0 FullShotDist 213
-Roll = DownHill Slope_Minor FirmSoft_No
+Roll = DownHill Slope_Minor FirmSoft_No 
 Lateral ER = 32 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -4517,7 +4519,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 229 yds Landing Zone 1:  220 yds to Green Center LZLoc,36.10214982075423,-115.3398144315748,2954,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 449 CalcRemaining 220 ActualShot 229 Remaining 220 ChoiceLayup 0 FullShotDist 229
-Roll = DownHill Slope_Moderate FirmSoft_No
+Roll = DownHill Slope_Moderate FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 30 50%T Bounce_No >50 0%R Bounce_No
@@ -4568,7 +4570,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 160 yds Landing Zone 1:  289 yds to Green Center LZLoc,36.1020583793486,-115.3405088753499,2969,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 449 CalcRemaining 289 ActualShot 160 Remaining 289 ChoiceLayup 0 FullShotDist 160
-Roll = DownHill Slope_Moderate FirmSoft_No
+Roll = DownHill Slope_Moderate FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_Yes
 Lateral ER = 35 50%T Bounce_No >50 0%R Bounce_No
@@ -4635,7 +4637,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -4688,13 +4690,13 @@ Circle 4 Width =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Depth =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Percent =  ,kml ,KeyIn
 Green UNPLEASANT = No
-Green is TIERED = No
+Green Is TIERED = No
 Contour of Green Surface = Moderate Contour or Moderately Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
 R&R = RoughInconsistent_No RiseOrDrop_No Unpleasant_No
 Obstacle Crossing Close At Green = No
-End = Green
+End = Green  IsRated
 
 Start = Tee 1
 Tee = Crown
@@ -5001,7 +5003,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -5054,13 +5056,13 @@ Circle 4 Width =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Depth =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Percent =  ,kml ,KeyIn
 Green UNPLEASANT = No
-Green is TIERED = No
+Green Is TIERED = No
 Contour of Green Surface = Relatively Flat or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
 R&R = RoughInconsistent_No RiseOrDrop_No Unpleasant_No
 Obstacle Crossing Close At Green = No
-End = Green
+End = Green  IsRated
 
 Start = Tee 1
 Tee = Crown
@@ -5087,7 +5089,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  231 yds to Green Center LZLoc,36.10546273207337,-115.3398629700797,2935,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 492 CalcRemaining 231 ActualShot 261 Remaining 231 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 22 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -5138,7 +5140,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 203 yds Landing Zone 1:  289 yds to Green Center LZLoc,36.10541482480142,-115.3392675031567,2929,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 492 CalcRemaining 289 ActualShot 203 Remaining 289 ChoiceLayup 0 FullShotDist 203
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Lateral ER = 28 100%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -5208,7 +5210,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  181 yds to Green Center LZLoc,36.10541368681053,-115.3403673839311,2945,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 442 CalcRemaining 181 ActualShot 261 Remaining 181 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 30 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 24 50%T Bounce_No >50 0%R Bounce_No
@@ -5241,7 +5243,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  234 yds to Green Center LZLoc,36.1054636361564,-115.3398329049279,2935,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 442 CalcRemaining 234 ActualShot 208 Remaining 234 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 32 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 24 50%T Bounce_No >50 0%R Bounce_No
@@ -5311,7 +5313,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  142 yds to Green Center LZLoc,36.10536039031713,-115.3407388723615,2954,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 403 CalcRemaining 142 ActualShot 261 Remaining 142 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 30 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 36 50%T Bounce_No >50 0%R Bounce_No
@@ -5344,7 +5346,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  195 yds to Green Center LZLoc,36.10545159164188,-115.3402098831452,2941,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 403 CalcRemaining 195 ActualShot 208 Remaining 195 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 41 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 29 50%T Bounce_No >50 0%R Bounce_No
@@ -5395,7 +5397,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  184 yds to Green Center LZLoc,36.10541772813256,-115.3403164962751,2944,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 403 CalcRemaining 184 ActualShot 219 Remaining 184 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 30 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 30 50%T Bounce_No >50 0%R Bounce_No
@@ -5428,7 +5430,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  253 yds to Green Center LZLoc,36.10545239798927,-115.3396168770395,2933,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 403 CalcRemaining 253 ActualShot 150 Remaining 253 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 37 WidthReduced_+1 BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 23 50%T Bounce_No >50 0%R Bounce_No
@@ -5492,7 +5494,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 256 yds Landing Zone 1:  116 yds to Green Center LZLoc,36.10537847938581,-115.3410259688021,2957,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 372 CalcRemaining 116 ActualShot 256 Remaining 116 ChoiceLayup 0 FullShotDist 256
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Lateral ER = 22 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -5525,7 +5527,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 203 yds Landing Zone 1:  169 yds to Green Center LZLoc,36.10538160789115,-115.3404871951652,2949,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 372 CalcRemaining 169 ActualShot 203 Remaining 169 ChoiceLayup 0 FullShotDist 203
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Lateral ER = 34 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -5557,7 +5559,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  153 yds to Green Center LZLoc,36.10536762463701,-115.3406469494594,2952,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 372 CalcRemaining 153 ActualShot 219 Remaining 153 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 33 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 31 50%T Bounce_No >50 0%R Bounce_No
@@ -5590,7 +5592,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  222 yds to Green Center LZLoc,36.10547696206974,-115.3399565433145,2936,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 372 CalcRemaining 222 ActualShot 150 Remaining 222 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 38 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 29 50%T Bounce_No >50 0%R Bounce_No
@@ -5654,7 +5656,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  76 yds to Green Center LZLoc,36.10514264158067,-115.341438041533,2959,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 337 CalcRemaining 76 ActualShot 261 Remaining 76 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -5687,7 +5689,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 203 yds Landing Zone 1:  134 yds to Green Center LZLoc,36.10535106038476,-115.3408410798043,2956,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 337 CalcRemaining 134 ActualShot 203 Remaining 134 ChoiceLayup 0 FullShotDist 203
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Lateral ER = 20 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -5719,7 +5721,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  118 yds to Green Center LZLoc,36.10537046018798,-115.341005640158,2957,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 337 CalcRemaining 118 ActualShot 219 Remaining 118 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 12 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 6 50%T Bounce_No >50 0%R Bounce_No
@@ -5752,7 +5754,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  187 yds to Green Center LZLoc,36.10542306504149,-115.3403067554447,2944,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 337 CalcRemaining 187 ActualShot 150 Remaining 187 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 34 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 36 50%T Bounce_No >50 0%R Bounce_No
@@ -5801,7 +5803,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -5854,13 +5856,13 @@ Circle 4 Width =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Depth =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Percent =  ,kml ,KeyIn
 Green UNPLEASANT = No
-Green is TIERED = No
+Green Is TIERED = No
 Contour of Green Surface = Moderate Contour or Moderately Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
 R&R = RoughInconsistent_No RiseOrDrop_No Unpleasant_No
 Obstacle Crossing Close At Green = No
-End = Green
+End = Green  IsRated
 
 Start = Tee 1
 Tee = Crown
@@ -5887,7 +5889,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  186 yds to Green Center LZLoc,36.1061874505598,-115.3412080258385,2946,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 447 CalcRemaining 186 ActualShot 261 Remaining 186 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 33 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -5919,7 +5921,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  239 yds to Green Center LZLoc,36.1060333631192,-115.3417491889725,2952,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 447 CalcRemaining 239 ActualShot 208 Remaining 239 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -5989,7 +5991,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  164 yds to Green Center LZLoc,36.10621478206279,-115.3409702345077,2944,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 425 CalcRemaining 164 ActualShot 261 Remaining 164 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 38 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 30 50%T Bounce_No >50 0%R Bounce_No
@@ -6022,7 +6024,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  217 yds to Green Center LZLoc,36.1060756613636,-115.3415171405661,2949,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 425 CalcRemaining 217 ActualShot 208 Remaining 217 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 38 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 23 50%T Bounce_No >50 0%R Bounce_No
@@ -6092,7 +6094,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  136 yds to Green Center LZLoc,36.10619425172804,-115.3406655321166,2941,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 397 CalcRemaining 136 ActualShot 261 Remaining 136 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 33 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 26 50%T Bounce_No >50 0%R Bounce_No
@@ -6125,7 +6127,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  189 yds to Green Center LZLoc,36.10618682139843,-115.3412072468692,2946,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 397 CalcRemaining 189 ActualShot 208 Remaining 189 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 35 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 27 50%T Bounce_No >50 0%R Bounce_No
@@ -6176,7 +6178,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  178 yds to Green Center LZLoc,36.1061937900525,-115.3410936094011,2946,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 397 CalcRemaining 178 ActualShot 219 Remaining 178 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 30 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 32 50%T Bounce_No >50 0%R Bounce_No
@@ -6209,7 +6211,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  247 yds to Green Center LZLoc,36.10601619942563,-115.3418000821357,2953,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 397 CalcRemaining 247 ActualShot 150 Remaining 247 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 33 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 21 50%T Bounce_No >50 0%R Bounce_No
@@ -6273,7 +6275,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 256 yds Landing Zone 1:  91 yds to Green Center LZLoc,36.10610381650815,-115.3402378169899,2937,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 347 CalcRemaining 91 ActualShot 256 Remaining 91 ChoiceLayup 0 FullShotDist 256
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Lateral ER = 20 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -6306,7 +6308,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 203 yds Landing Zone 1:  144 yds to Green Center LZLoc,36.10621253973861,-115.3407660312595,2942,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 347 CalcRemaining 144 ActualShot 203 Remaining 144 ChoiceLayup 0 FullShotDist 203
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Lateral ER = 25 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -6338,7 +6340,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  128 yds to Green Center LZLoc,36.10616838373842,-115.3406092234702,2940,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 347 CalcRemaining 128 ActualShot 219 Remaining 128 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 42 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 27 50%T Bounce_No >50 0%R Bounce_No
@@ -6371,7 +6373,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  197 yds to Green Center LZLoc,36.10614859383394,-115.3413124843049,2948,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 347 CalcRemaining 197 ActualShot 150 Remaining 197 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 37 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 40 50%T Bounce_No >50 0%R Bounce_No
@@ -6435,7 +6437,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  52 yds to Green Center LZLoc,36.10604988153045,-115.3398512574805,2933,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 313 CalcRemaining 52 ActualShot 261 Remaining 52 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 18 100%T Bounce_Increase >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -6468,7 +6470,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 203 yds Landing Zone 1:  110 yds to Green Center LZLoc,36.10611095010913,-115.3404399470843,2940,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 313 CalcRemaining 110 ActualShot 203 Remaining 110 ChoiceLayup 0 FullShotDist 203
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Lateral ER = 29 50%T Bounce_Increase >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -6500,7 +6502,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  94 yds to Green Center LZLoc,36.10610486721811,-115.340277005885,2938,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 313 CalcRemaining 94 ActualShot 219 Remaining 94 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 36 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 22 50%T Bounce_No >50 0%R Bounce_No
@@ -6533,7 +6535,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  163 yds to Green Center LZLoc,36.10622523000263,-115.3409696811281,2944,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 313 CalcRemaining 163 ActualShot 150 Remaining 163 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 35 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 20 50%T Bounce_No >50 0%R Bounce_No
@@ -6582,7 +6584,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -6635,13 +6637,13 @@ Circle 4 Width =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Depth =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Percent =  ,kml ,KeyIn
 Green UNPLEASANT = No
-Green is TIERED = No
+Green Is TIERED = No
 Contour of Green Surface = Moderate Contour or Moderately Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
 R&R = RoughInconsistent_No RiseOrDrop_>5 Unpleasant_No
 Obstacle Crossing Close At Green = No
-End = Green
+End = Green  IsRated
 
 Start = Tee 1
 Tee = Crown
@@ -6668,7 +6670,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 266 yds Landing Zone 1:  242 yds to Green Center LZLoc,36.10696091791832,-115.3351167434001,2911,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 508 CalcRemaining 242 ActualShot 266 Remaining 242 ChoiceLayup 0 FullShotDist 266
-Roll = DownHill Slope_Minor FirmSoft_No
+Roll = DownHill Slope_Minor FirmSoft_No 
 Lateral ER = 35 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -6719,7 +6721,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 213 yds Landing Zone 1:  295 yds to Green Center LZLoc,36.10693872443694,-115.335653825098,2921,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 508 CalcRemaining 295 ActualShot 213 Remaining 295 ChoiceLayup 0 FullShotDist 213
-Roll = DownHill Slope_Minor FirmSoft_No
+Roll = DownHill Slope_Minor FirmSoft_No 
 Lateral ER = 28 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -6789,7 +6791,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  189 yds to Green Center LZLoc,36.10700588174198,-115.3345606572994,2903,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 450 CalcRemaining 189 ActualShot 261 Remaining 189 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 34 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 25 100%T Bounce_No >50 0%R Bounce_No
@@ -6822,7 +6824,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  242 yds to Green Center LZLoc,36.10696583552134,-115.3350976047859,2911,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 450 CalcRemaining 242 ActualShot 208 Remaining 242 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 33 50%T Bounce_No >50 0%R Bounce_No
@@ -6892,7 +6894,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  166 yds to Green Center LZLoc,36.10701351899069,-115.3343270568255,2899,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 427 CalcRemaining 166 ActualShot 261 Remaining 166 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 39 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 28 50%T Bounce_No >50 0%R Bounce_No
@@ -6925,7 +6927,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  219 yds to Green Center LZLoc,36.10693369381038,-115.334856893239,2908,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 427 CalcRemaining 219 ActualShot 208 Remaining 219 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 27 50%T Bounce_No >50 0%R Bounce_No
@@ -6975,7 +6977,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  208 yds to Green Center LZLoc,36.106927840439,-115.3347434945992,2906,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 427 CalcRemaining 208 ActualShot 219 Remaining 208 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 41 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 26 50%T Bounce_No >50 0%R Bounce_No
@@ -7027,7 +7029,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  277 yds to Green Center LZLoc,36.10694999865228,-115.3354503768954,2917,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 427 CalcRemaining 277 ActualShot 150 Remaining 277 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 33 50%T Bounce_No >50 0%R Bounce_No
@@ -7110,7 +7112,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  124 yds to Green Center LZLoc,36.10709257240092,-115.3339152246801,2895,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 385 CalcRemaining 124 ActualShot 261 Remaining 124 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 24 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -7143,7 +7145,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  177 yds to Green Center LZLoc,36.10699011423029,-115.3344455019626,2901,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 385 CalcRemaining 177 ActualShot 208 Remaining 177 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 25 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -7175,7 +7177,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  166 yds to Green Center LZLoc,36.1070032613758,-115.3343355782703,2899,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 385 CalcRemaining 166 ActualShot 219 Remaining 166 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 40 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 31 50%T Bounce_No >50 0%R Bounce_No
@@ -7208,7 +7210,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  235 yds to Green Center LZLoc,36.10697804870939,-115.3350377486099,2910,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 385 CalcRemaining 235 ActualShot 150 Remaining 235 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 34 50%T Bounce_No >50 0%R Bounce_No
@@ -7272,7 +7274,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 266 yds Landing Zone 1:  86 yds to Green Center LZLoc,36.10710158028957,-115.3335210593875,2890,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 352 CalcRemaining 86 ActualShot 266 Remaining 86 ChoiceLayup 0 FullShotDist 266
-Roll = DownHill Slope_Minor FirmSoft_No
+Roll = DownHill Slope_Minor FirmSoft_No 
 Lateral ER = 20 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -7305,7 +7307,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 213 yds Landing Zone 1:  139 yds to Green Center LZLoc,36.10706450668359,-115.3340567345645,2896,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 352 CalcRemaining 139 ActualShot 213 Remaining 139 ChoiceLayup 0 FullShotDist 213
-Roll = DownHill Slope_Minor FirmSoft_No
+Roll = DownHill Slope_Minor FirmSoft_No 
 Lateral ER = 29 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -7337,7 +7339,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  133 yds to Green Center LZLoc,36.10708120728401,-115.3339971573093,2896,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 352 CalcRemaining 133 ActualShot 219 Remaining 133 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 31 50%T Bounce_No >50 0%R Bounce_No
@@ -7370,7 +7372,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  202 yds to Green Center LZLoc,36.10696111796239,-115.3346889092579,2905,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 352 CalcRemaining 202 ActualShot 150 Remaining 202 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 43 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 24 50%T Bounce_No >50 0%R Bounce_No
@@ -7419,7 +7421,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -7472,13 +7474,13 @@ Circle 4 Width =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Depth =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Percent =  ,kml ,KeyIn
 Green UNPLEASANT = No
-Green is TIERED = No
+Green Is TIERED = No
 Contour of Green Surface = Moderate Contour or Moderately Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
 R&R = RoughInconsistent_No RiseOrDrop_No Unpleasant_No
 Obstacle Crossing Close At Green = No
-End = Green
+End = Green  IsRated
 
 Start = Tee 1
 Tee = Crown
@@ -7518,7 +7520,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 213 yds Landing Zone 1:  22 yds to Green Center LZLoc,36.10639384599345,-115.3300232738183,2854,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 235 CalcRemaining 22 ActualShot 213 Remaining 22 ChoiceLayup 0 FullShotDist 213
-Roll = DownHill Slope_Minor FirmSoft_No
+Roll = DownHill Slope_Minor FirmSoft_No 
 Lateral ER = 20 25%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -7657,7 +7659,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  33 yds to Green Center LZLoc,36.10636367196142,-115.330127567486,2855,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 183 CalcRemaining 33 ActualShot 150 Remaining 33 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 0 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 20 50%T Bounce_No >50 0%R Bounce_No
@@ -7745,7 +7747,7 @@ Bunker(s) Protecting > 1/2 Green on Approach Shot = No
 Shot 1,  150 yds Landing Zone 1:  2 yds to Green Center LZLoc,36.10644594526856,-115.3298288629655,2854,kml LZLoc,,,,GPS
 Type of Position Change = TransitionZone LZ10ydsInFront_No Adj_Yes Front 2 yds Back 8 yds
 Layup = DistAtStart 152 CalcRemaining 2 ActualShot 150 Remaining 2 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 0 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_Yes
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 18 50%T Bounce_No >50 0%R Bounce_No
@@ -7843,7 +7845,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -7896,13 +7898,13 @@ Circle 4 Width =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Depth =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Percent =  ,kml ,KeyIn
 Green UNPLEASANT = No
-Green is TIERED = No
+Green Is TIERED = No
 Contour of Green Surface = Moderate Contour or Moderately Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
 R&R = RoughInconsistent_No RiseOrDrop_No Unpleasant_No
 Obstacle Crossing Close At Green = No
-End = Green
+End = Green  IsRated
 
 Start = Tee 1
 Tee = Crown
@@ -7929,7 +7931,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  96 yds to Green Center LZLoc,36.10627150822874,-115.3324420088053,2871,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 357 CalcRemaining 96 ActualShot 261 Remaining 96 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 34 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -7961,7 +7963,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 203 yds Landing Zone 1:  154 yds to Green Center LZLoc,36.10617446308977,-115.3317349985034,2866,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 357 CalcRemaining 154 ActualShot 203 Remaining 154 ChoiceLayup 0 FullShotDist 203
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Lateral ER = 19 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -8013,7 +8015,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  66 yds to Green Center LZLoc,36.10613231051831,-115.3327064836122,2874,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 327 CalcRemaining 66 ActualShot 261 Remaining 66 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 30 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 23 50%T Bounce_No >50 0%R Bounce_No
@@ -8046,7 +8048,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  119 yds to Green Center LZLoc,36.10626941654159,-115.3321778323938,2870,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 327 CalcRemaining 119 ActualShot 208 Remaining 119 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 32 50%T Bounce_No >50 0%R Bounce_No
@@ -8098,7 +8100,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  41 yds to Green Center LZLoc,36.10602341853016,-115.332924581155,2876,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 302 CalcRemaining 41 ActualShot 261 Remaining 41 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 29 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 26 50%T Bounce_No >50 0%R Bounce_No
@@ -8131,7 +8133,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  94 yds to Green Center LZLoc,36.10625463606078,-115.3324655473311,2871,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 302 CalcRemaining 94 ActualShot 208 Remaining 94 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 28 50%T Bounce_No >50 0%R Bounce_No
@@ -8163,7 +8165,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  83 yds to Green Center LZLoc,36.10621291410948,-115.3325644945771,2871,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 302 CalcRemaining 83 ActualShot 219 Remaining 83 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 40 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 41 50%T Bounce_No >50 0%R Bounce_No
@@ -8196,7 +8198,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  152 yds to Green Center LZLoc,36.1061884185883,-115.3317738329499,2866,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 302 CalcRemaining 152 ActualShot 150 Remaining 152 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 40 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 24 50%T Bounce_No >50 0%R Bounce_No
@@ -8260,7 +8262,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  14 yds to Green Center LZLoc,36.10589590347336,-115.3331515766784,2880,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 275 CalcRemaining 14 ActualShot 261 Remaining 14 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -8293,7 +8295,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  67 yds to Green Center LZLoc,36.10612942606787,-115.3326913081414,2874,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 275 CalcRemaining 67 ActualShot 208 Remaining 67 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -8325,7 +8327,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  56 yds to Green Center LZLoc,36.10607808754238,-115.3327840770957,2875,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 275 CalcRemaining 56 ActualShot 219 Remaining 56 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 32 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 24 50%T Bounce_No >50 0%R Bounce_No
@@ -8358,7 +8360,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 145 yds Landing Zone 1:  130 yds to Green Center LZLoc,36.10621519360571,-115.3320242615427,2867,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 275 CalcRemaining 130 ActualShot 145 Remaining 130 ChoiceLayup 0 FullShotDist 145
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 40 50%T Bounce_No >50 0%R Bounce_No
@@ -8417,7 +8419,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 203 yds Landing Zone 1:  27 yds to Green Center LZLoc,36.10595349247951,-115.3330653598086,2878,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 230 CalcRemaining 27 ActualShot 203 Remaining 27 ChoiceLayup 0 FullShotDist 203
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Lateral ER = 21 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -8449,7 +8451,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  11 yds to Green Center LZLoc,36.10586757274709,-115.333191468769,2880,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 230 CalcRemaining 11 ActualShot 219 Remaining 11 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 30 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 30 50%T Bounce_No >50 0%R Bounce_No
@@ -8482,7 +8484,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  80 yds to Green Center LZLoc,36.10618111525415,-115.3325989713871,2872,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 230 CalcRemaining 80 ActualShot 150 Remaining 80 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 44 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 39 100%T Bounce_No >50 0%R Bounce_No
@@ -8513,7 +8515,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -8566,13 +8568,13 @@ Circle 4 Width =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Depth =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Percent =  ,kml ,KeyIn
 Green UNPLEASANT = No
-Green is TIERED = No
+Green Is TIERED = No
 Contour of Green Surface = Moderate Contour or Moderately Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
 R&R = RoughInconsistent_No RiseOrDrop_No Unpleasant_No
 Obstacle Crossing Close At Green = No
-End = Green
+End = Green  IsRated
 
 Start = Tee 1
 Tee = Crown
@@ -8599,7 +8601,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  213 yds to Green Center LZLoc,36.10578130265491,-115.3354499000179,2898,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 474 CalcRemaining 213 ActualShot 261 Remaining 213 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 39 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -8631,7 +8633,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 203 yds Landing Zone 1:  271 yds to Green Center LZLoc,36.10570069800296,-115.3348595316137,2890,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 474 CalcRemaining 271 ActualShot 203 Remaining 271 ChoiceLayup 0 FullShotDist 203
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Lateral ER = 24 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -8701,7 +8703,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  182 yds to Green Center LZLoc,36.10577647046738,-115.3357439831156,2901,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 443 CalcRemaining 182 ActualShot 261 Remaining 182 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 38 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 27 50%T Bounce_No >50 0%R Bounce_No
@@ -8734,7 +8736,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  235 yds to Green Center LZLoc,36.10575141191713,-115.3352045160454,2894,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 443 CalcRemaining 235 ActualShot 208 Remaining 235 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = >50 100%T Bounce_No >50 0%R Bounce_No
@@ -8804,7 +8806,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  109 yds to Green Center LZLoc,36.10558446159754,-115.3365512077727,2909,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 370 CalcRemaining 109 ActualShot 261 Remaining 109 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 27 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 20 50%T Bounce_No >50 0%R Bounce_No
@@ -8836,7 +8838,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  162 yds to Green Center LZLoc,36.10575758614592,-115.3359969326694,2903,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 370 CalcRemaining 162 ActualShot 208 Remaining 162 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 37 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 28 50%T Bounce_No >50 0%R Bounce_No
@@ -8868,7 +8870,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  151 yds to Green Center LZLoc,36.10574424538082,-115.336109527782,2904,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 370 CalcRemaining 151 ActualShot 219 Remaining 151 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 32 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 37 50%T Bounce_No >50 0%R Bounce_No
@@ -8901,7 +8903,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  220 yds to Green Center LZLoc,36.10578227904666,-115.3354079593239,2897,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 370 CalcRemaining 220 ActualShot 150 Remaining 220 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 42 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 36 50%T Bounce_No >50 0%R Bounce_No
@@ -8965,7 +8967,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  100 yds to Green Center LZLoc,36.10551765593154,-115.3367552781378,2908,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 361 CalcRemaining 100 ActualShot 261 Remaining 100 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 24 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -8998,7 +9000,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  153 yds to Green Center LZLoc,36.10572893607716,-115.3361796455441,2906,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 361 CalcRemaining 153 ActualShot 208 Remaining 153 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 29 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -9030,7 +9032,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  142 yds to Green Center LZLoc,36.10568517854951,-115.3362928289605,2907,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 361 CalcRemaining 142 ActualShot 219 Remaining 142 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 33 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 32 50%T Bounce_No >50 0%R Bounce_No
@@ -9063,7 +9065,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  211 yds to Green Center LZLoc,36.10579907314041,-115.3355910275167,2899,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 361 CalcRemaining 211 ActualShot 150 Remaining 211 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 36 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 25 50%T Bounce_No >50 0%R Bounce_No
@@ -9127,7 +9129,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  75 yds to Green Center LZLoc,36.10549846487625,-115.33696749244,2908,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 336 CalcRemaining 75 ActualShot 261 Remaining 75 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 20 50%T Bounce_Increase >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -9160,7 +9162,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  128 yds to Green Center LZLoc,36.105643382054,-115.3363770804409,2907,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 336 CalcRemaining 128 ActualShot 208 Remaining 128 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 20 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -9192,7 +9194,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  117 yds to Green Center LZLoc,36.10560290362324,-115.3364944352172,2909,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 336 CalcRemaining 117 ActualShot 219 Remaining 117 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 28 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 21 50%T Bounce_No >50 0%R Bounce_No
@@ -9225,7 +9227,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  186 yds to Green Center LZLoc,36.10577805866056,-115.335782965465,2902,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 336 CalcRemaining 186 ActualShot 150 Remaining 186 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 36 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 30 50%T Bounce_No >50 0%R Bounce_No
@@ -9274,7 +9276,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -9327,13 +9329,13 @@ Circle 4 Width =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Depth =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Percent =  ,kml ,KeyIn
 Green UNPLEASANT = No
-Green is TIERED = No
+Green Is TIERED = No
 Contour of Green Surface = Moderate Contour or Moderately Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
 R&R = RoughInconsistent_No RiseOrDrop_>5 Unpleasant_No
 Obstacle Crossing Close At Green = No
-End = Green
+End = Green  IsRated
 
 Start = Tee 1
 Tee = Crown
@@ -9360,7 +9362,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  287 yds to Green Center LZLoc,36.10679285120713,-115.3408130677787,2954,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 548 CalcRemaining 287 ActualShot 261 Remaining 287 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 25 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -9410,7 +9412,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  340 yds to Green Center LZLoc,36.10672092092582,-115.3402613636239,2948,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 548 CalcRemaining 340 ActualShot 208 Remaining 340 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 31 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -9480,7 +9482,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  258 yds to Green Center LZLoc,36.10679867419236,-115.3411731675369,2958,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 519 CalcRemaining 258 ActualShot 261 Remaining 258 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 32 WidthReduced_+1 BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 21 50%T Bounce_No >50 0%R Bounce_No
@@ -9531,7 +9533,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  311 yds to Green Center LZLoc,36.1067834315114,-115.3406273911374,2954,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 519 CalcRemaining 311 ActualShot 208 Remaining 311 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 38 WidthReduced_+1 BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 33 50%T Bounce_No >50 0%R Bounce_No
@@ -9601,7 +9603,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  220 yds to Green Center LZLoc,36.10671701897232,-115.3415087293868,2961,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 481 CalcRemaining 220 ActualShot 261 Remaining 220 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 26 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 36 50%T Bounce_No >50 0%R Bounce_No
@@ -9634,7 +9636,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 203 yds Landing Zone 1:  278 yds to Green Center LZLoc,36.10680651160596,-115.3409301431786,2955,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 481 CalcRemaining 278 ActualShot 203 Remaining 278 ChoiceLayup 0 FullShotDist 203
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Fairway = 38 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 32 50%T Bounce_No >50 0%R Bounce_No
@@ -9684,7 +9686,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  262 yds to Green Center LZLoc,36.10680446325817,-115.3410949028041,2958,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 481 CalcRemaining 262 ActualShot 219 Remaining 262 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 31 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 22 50%T Bounce_No >50 0%R Bounce_No
@@ -9735,7 +9737,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  331 yds to Green Center LZLoc,36.1067653191612,-115.3403796974445,2952,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 481 CalcRemaining 331 ActualShot 150 Remaining 331 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 40 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 30 50%T Bounce_No >50 0%R Bounce_No
@@ -9817,7 +9819,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  181 yds to Green Center LZLoc,36.10656383318489,-115.3418785688553,2958,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 442 CalcRemaining 181 ActualShot 261 Remaining 181 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 24 100%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -9850,7 +9852,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  234 yds to Green Center LZLoc,36.10675200685652,-115.3413623741327,2958,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 442 CalcRemaining 234 ActualShot 208 Remaining 234 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 21 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -9900,7 +9902,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  223 yds to Green Center LZLoc,36.10673518667187,-115.3414720318367,2960,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 442 CalcRemaining 223 ActualShot 219 Remaining 223 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 28 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 23 50%T Bounce_No >50 0%R Bounce_No
@@ -9951,7 +9953,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  292 yds to Green Center LZLoc,36.10677253211563,-115.3407713648477,2952,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 442 CalcRemaining 292 ActualShot 150 Remaining 292 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 40 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 27 50%T Bounce_No >50 0%R Bounce_No
@@ -10033,7 +10035,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 256 yds Landing Zone 1:  144 yds to Green Center LZLoc,36.10651064551283,-115.3422702986182,2966,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 400 CalcRemaining 144 ActualShot 256 Remaining 144 ChoiceLayup 0 FullShotDist 256
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Lateral ER = 27 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -10065,7 +10067,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 203 yds Landing Zone 1:  197 yds to Green Center LZLoc,36.1066006720735,-115.3417385312281,2958,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 400 CalcRemaining 197 ActualShot 203 Remaining 197 ChoiceLayup 0 FullShotDist 203
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Lateral ER = 22 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -10116,7 +10118,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  181 yds to Green Center LZLoc,36.1065618164968,-115.3418971289907,2958,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 400 CalcRemaining 181 ActualShot 219 Remaining 181 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 36 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 24 50%T Bounce_No >50 0%R Bounce_No
@@ -10149,7 +10151,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  250 yds to Green Center LZLoc,36.10677873419588,-115.34122392877,2957,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 400 CalcRemaining 250 ActualShot 150 Remaining 250 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 30 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 22 50%T Bounce_No >50 0%R Bounce_No
@@ -10198,7 +10200,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -10251,13 +10253,13 @@ Circle 4 Width =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Depth =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Percent =  ,kml ,KeyIn
 Green UNPLEASANT = No
-Green is TIERED = No
+Green Is TIERED = No
 Contour of Green Surface = Moderate Contour or Moderately Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
 R&R = RoughInconsistent_No RiseOrDrop_>5 Unpleasant_No
 Obstacle Crossing Close At Green = No
-End = Green
+End = Green  IsRated
 
 Start = Tee 1
 Tee = Crown
@@ -10284,7 +10286,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 251 yds Landing Zone 1:  207 yds to Green Center LZLoc,36.10543182281158,-115.3457178939306,2987,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 458 CalcRemaining 207 ActualShot 251 Remaining 207 ChoiceLayup 0 FullShotDist 251
-Roll = UpHill Slope_Moderate FirmSoft_No
+Roll = UpHill Slope_Moderate FirmSoft_No 
 Lateral ER = 33 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -10316,7 +10318,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 198 yds Landing Zone 1:  260 yds to Green Center LZLoc,36.1058524967407,-115.345518244842,2982,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 458 CalcRemaining 260 ActualShot 198 Remaining 260 ChoiceLayup 0 FullShotDist 198
-Roll = UpHill Slope_Moderate FirmSoft_No
+Roll = UpHill Slope_Moderate FirmSoft_No 
 Lateral ER = 23 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -10386,7 +10388,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  178 yds to Green Center LZLoc,36.1051921866128,-115.3458609562211,2990,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 439 CalcRemaining 178 ActualShot 261 Remaining 178 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 48 50%T Bounce_No >50 0%R Bounce_No
@@ -10419,7 +10421,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 198 yds Landing Zone 1:  241 yds to Green Center LZLoc,36.10569205595561,-115.3455672046782,2984,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 439 CalcRemaining 241 ActualShot 198 Remaining 241 ChoiceLayup 0 FullShotDist 198
-Roll = UpHill Slope_Moderate FirmSoft_No
+Roll = UpHill Slope_Moderate FirmSoft_No 
 Fairway = 45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 43 50%T Bounce_No >50 0%R Bounce_No
@@ -10489,7 +10491,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  142 yds to Green Center LZLoc,36.10490396615644,-115.3459327868319,3000,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 403 CalcRemaining 142 ActualShot 261 Remaining 142 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 32 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 40 50%T Bounce_No >50 0%R Bounce_No
@@ -10522,7 +10524,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 198 yds Landing Zone 1:  205 yds to Green Center LZLoc,36.10541611972154,-115.3457240826958,2987,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 403 CalcRemaining 205 ActualShot 198 Remaining 205 ChoiceLayup 0 FullShotDist 198
-Roll = UpHill Slope_Moderate FirmSoft_No
+Roll = UpHill Slope_Moderate FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 36 50%T Bounce_No >50 0%R Bounce_No
@@ -10572,7 +10574,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  184 yds to Green Center LZLoc,36.10524813388033,-115.3458217033405,2989,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 403 CalcRemaining 184 ActualShot 219 Remaining 184 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 35 50%T Bounce_No >50 0%R Bounce_No
@@ -10604,7 +10606,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  253 yds to Green Center LZLoc,36.10579512921252,-115.3455431356237,2982,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 403 CalcRemaining 253 ActualShot 150 Remaining 253 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 29 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 20 50%T Bounce_No >50 0%R Bounce_No
@@ -10668,7 +10670,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 251 yds Landing Zone 1:  71 yds to Green Center LZLoc,36.10431571423793,-115.345992118538,3005,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 322 CalcRemaining 71 ActualShot 251 Remaining 71 ChoiceLayup 0 FullShotDist 251
-Roll = UpHill Slope_Moderate FirmSoft_No
+Roll = UpHill Slope_Moderate FirmSoft_No 
 Lateral ER = 31 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -10701,7 +10703,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 198 yds Landing Zone 1:  124 yds to Green Center LZLoc,36.1047548372862,-115.3459627938678,3003,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 322 CalcRemaining 124 ActualShot 198 Remaining 124 ChoiceLayup 0 FullShotDist 198
-Roll = UpHill Slope_Moderate FirmSoft_No
+Roll = UpHill Slope_Moderate FirmSoft_No 
 Lateral ER = 38 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -10733,7 +10735,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  103 yds to Green Center LZLoc,36.10457675532034,-115.3460361396151,3004,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 322 CalcRemaining 103 ActualShot 219 Remaining 103 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 42 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 28 50%T Bounce_No >50 0%R Bounce_No
@@ -10766,7 +10768,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 145 yds Landing Zone 1:  177 yds to Green Center LZLoc,36.10519091322937,-115.3458525046875,2990,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 322 CalcRemaining 177 ActualShot 145 Remaining 177 ChoiceLayup 0 FullShotDist 145
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 45 50%T Bounce_No >50 0%R Bounce_No
@@ -10843,7 +10845,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  37 yds to Green Center LZLoc,36.10401966247058,-115.3460172892444,3010,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 245 CalcRemaining 37 ActualShot 208 Remaining 37 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 29 50%T Bounce_Increase >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -10875,7 +10877,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  26 yds to Green Center LZLoc,36.10392196593896,-115.3460221391265,3013,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 245 CalcRemaining 26 ActualShot 219 Remaining 26 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 28 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 30 50%T Bounce_No >50 0%R Bounce_No
@@ -10908,7 +10910,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  95 yds to Green Center LZLoc,36.10450498248529,-115.3460165186572,3003,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 245 CalcRemaining 95 ActualShot 150 Remaining 95 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 44 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 30 50%T Bounce_No >50 0%R Bounce_No
@@ -10939,7 +10941,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -10992,13 +10994,13 @@ Circle 4 Width =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Depth =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Percent =  ,kml ,KeyIn
 Green UNPLEASANT = No
-Green is TIERED = No
+Green Is TIERED = No
 Contour of Green Surface = Relatively Flat or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
 R&R = RoughInconsistent_No RiseOrDrop_No Unpleasant_No
 Obstacle Crossing Close At Green = No
-End = Green
+End = Green  IsRated
 
 Start = Tee 1
 Tee = Crown
@@ -11305,7 +11307,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -11358,13 +11360,13 @@ Circle 4 Width =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Depth =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Percent =  ,kml ,KeyIn
 Green UNPLEASANT = No
-Green is TIERED = No
+Green Is TIERED = No
 Contour of Green Surface = Moderate Contour or Moderately Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
 R&R = RoughInconsistent_No RiseOrDrop_No Unpleasant_No
 Obstacle Crossing Close At Green = No
-End = Green
+End = Green  IsRated
 
 Start = Tee 1
 Tee = Crown
@@ -11391,7 +11393,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  171 yds to Green Center LZLoc,36.10550012477663,-115.3483024847841,3009,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 432 CalcRemaining 171 ActualShot 261 Remaining 171 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 37 75%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -11423,7 +11425,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  224 yds to Green Center LZLoc,36.10570062286892,-115.3478108272254,3002,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 432 CalcRemaining 224 ActualShot 208 Remaining 224 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 38 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -11493,7 +11495,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  139 yds to Green Center LZLoc,36.10537859475588,-115.3486461193536,3011,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 400 CalcRemaining 139 ActualShot 261 Remaining 139 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 37 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 31 50%T Bounce_No >50 0%R Bounce_No
@@ -11525,7 +11527,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  192 yds to Green Center LZLoc,36.10555635870803,-115.3481184349057,3007,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 400 CalcRemaining 192 ActualShot 208 Remaining 192 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 40 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 37 50%T Bounce_No >50 0%R Bounce_No
@@ -11596,7 +11598,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  102 yds to Green Center LZLoc,36.10512048837025,-115.3488629174427,3013,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 363 CalcRemaining 102 ActualShot 261 Remaining 102 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 36 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 30 50%T Bounce_No >50 0%R Bounce_No
@@ -11629,7 +11631,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  155 yds to Green Center LZLoc,36.10544678603192,-115.3484999042414,3009,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 363 CalcRemaining 155 ActualShot 208 Remaining 155 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 35 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 45 50%T Bounce_No >50 0%R Bounce_No
@@ -11661,7 +11663,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  144 yds to Green Center LZLoc,36.10540252565133,-115.3486040096899,3011,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 363 CalcRemaining 144 ActualShot 219 Remaining 144 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 36 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 22 50%T Bounce_No >50 0%R Bounce_No
@@ -11694,7 +11696,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  213 yds to Green Center LZLoc,36.10566022416779,-115.347950783222,3005,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 363 CalcRemaining 213 ActualShot 150 Remaining 213 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 37 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 28 50%T Bounce_No >50 0%R Bounce_No
@@ -11758,7 +11760,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 256 yds Landing Zone 1:  74 yds to Green Center LZLoc,36.10493437064319,-115.349031899378,3017,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 330 CalcRemaining 74 ActualShot 256 Remaining 74 ChoiceLayup 0 FullShotDist 256
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Lateral ER = 28 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -11791,7 +11793,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 203 yds Landing Zone 1:  127 yds to Green Center LZLoc,36.10531179315123,-115.3487206233842,3012,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 330 CalcRemaining 127 ActualShot 203 Remaining 127 ChoiceLayup 0 FullShotDist 203
-Roll = UpHill Slope_Minor FirmSoft_No
+Roll = UpHill Slope_Minor FirmSoft_No 
 Lateral ER = 28 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -11823,7 +11825,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  111 yds to Green Center LZLoc,36.10520169586192,-115.3488169234247,3013,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 330 CalcRemaining 111 ActualShot 219 Remaining 111 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 42 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 30 50%T Bounce_No >50 0%R Bounce_No
@@ -11856,7 +11858,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  180 yds to Green Center LZLoc,36.10553582759708,-115.348245408854,3008,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 330 CalcRemaining 180 ActualShot 150 Remaining 180 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 35 50%T Bounce_No >50 0%R Bounce_No
@@ -11920,7 +11922,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  16 yds to Green Center LZLoc,36.10460367167494,-115.3494622221235,3019,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 277 CalcRemaining 16 ActualShot 261 Remaining 16 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 20 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -11952,7 +11954,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  69 yds to Green Center LZLoc,36.10491334055583,-115.3490508277069,3018,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 277 CalcRemaining 69 ActualShot 208 Remaining 69 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 18 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -11984,7 +11986,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  58 yds to Green Center LZLoc,36.10484049398762,-115.349124643916,3019,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 277 CalcRemaining 58 ActualShot 219 Remaining 58 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 27 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 20 50%T Bounce_No >50 0%R Bounce_No
@@ -12017,7 +12019,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  127 yds to Green Center LZLoc,36.10531976423215,-115.348701517556,3012,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 277 CalcRemaining 127 ActualShot 150 Remaining 127 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 36 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 28 50%T Bounce_No >50 0%R Bounce_No
@@ -12048,7 +12050,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
@@ -12101,13 +12103,13 @@ Circle 4 Width =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Depth =  ,kml ,KeyIn Line,,,,,,,kml
 Circle 4 Percent =  ,kml ,KeyIn
 Green UNPLEASANT = No
-Green is TIERED = No
+Green Is TIERED = No
 Contour of Green Surface = Moderate Contour or Moderately Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
 R&R = RoughInconsistent_No RiseOrDrop_>5 Unpleasant_No
 Obstacle Crossing Close At Green = No
-End = Green
+End = Green  IsRated
 
 Start = Tee 1
 Tee = Crown
@@ -12134,7 +12136,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  315 yds to Green Center LZLoc,36.1037174663503,-115.3512045432828,3054,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 576 CalcRemaining 315 ActualShot 261 Remaining 315 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 28 75%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -12184,7 +12186,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  368 yds to Green Center LZLoc,36.10414659300334,-115.3510976244925,3047,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 576 CalcRemaining 368 ActualShot 208 Remaining 368 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 32 75%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -12273,7 +12275,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  293 yds to Green Center LZLoc,36.10355307147345,-115.3512434584408,3054,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 554 CalcRemaining 293 ActualShot 261 Remaining 293 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 37 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 30 50%T Bounce_No >50 0%R Bounce_No
@@ -12323,7 +12325,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  346 yds to Green Center LZLoc,36.10398514672374,-115.3511380903747,3049,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 554 CalcRemaining 346 ActualShot 208 Remaining 346 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 31 50%T Bounce_No >50 0%R Bounce_No
@@ -12393,7 +12395,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  237 yds to Green Center LZLoc,36.10309778411686,-115.3511125457251,3052,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 498 CalcRemaining 237 ActualShot 261 Remaining 237 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 37 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 38 50%T Bounce_No >50 0%R Bounce_No
@@ -12445,7 +12447,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 213 yds Landing Zone 1:  285 yds to Green Center LZLoc,36.10350523248462,-115.3512471709456,3053,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 498 CalcRemaining 285 ActualShot 213 Remaining 285 ChoiceLayup 0 FullShotDist 213
-Roll = DownHill Slope_Minor FirmSoft_No
+Roll = DownHill Slope_Minor FirmSoft_No 
 Fairway = 39 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 26 50%T Bounce_No >50 0%R Bounce_No
@@ -12495,7 +12497,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  279 yds to Green Center LZLoc,36.10345568445717,-115.3512516255716,3051,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 498 CalcRemaining 279 ActualShot 219 Remaining 279 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 36 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 25 50%T Bounce_No >50 0%R Bounce_No
@@ -12546,7 +12548,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  348 yds to Green Center LZLoc,36.10401778116211,-115.3511237946779,3047,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 498 CalcRemaining 348 ActualShot 150 Remaining 348 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = >45 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 34 50%T Bounce_No >50 0%R Bounce_No
@@ -12628,7 +12630,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  162 yds to Green Center LZLoc,36.10281315713844,-115.3510452533158,3063,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 423 CalcRemaining 162 ActualShot 261 Remaining 162 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 24 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -12661,7 +12663,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  215 yds to Green Center LZLoc,36.10326858034262,-115.3511750454052,3044,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 423 CalcRemaining 215 ActualShot 208 Remaining 215 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 30 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -12711,7 +12713,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  204 yds to Green Center LZLoc,36.10317527262141,-115.3511388111487,3048,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 423 CalcRemaining 204 ActualShot 219 Remaining 204 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 40 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 37 50%T Bounce_No >50 0%R Bounce_No
@@ -12763,7 +12765,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  273 yds to Green Center LZLoc,36.10374838212785,-115.3511770353677,3053,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 423 CalcRemaining 273 ActualShot 150 Remaining 273 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 36 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 25 50%T Bounce_No >50 0%R Bounce_No
@@ -12846,7 +12848,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 261 yds Landing Zone 1:  129 yds to Green Center LZLoc,36.10247985786289,-115.351174136465,3064,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 390 CalcRemaining 129 ActualShot 261 Remaining 129 ChoiceLayup 0 FullShotDist 261
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 16 25%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -12879,7 +12881,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 208 yds Landing Zone 1:  182 yds to Green Center LZLoc,36.10290611546711,-115.3510506415906,3061,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 390 CalcRemaining 182 ActualShot 208 Remaining 182 ChoiceLayup 0 FullShotDist 208
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Lateral ER = 22 50%T Bounce_No >50 0%R Bounce_No
 Lateral OB = >50 100%T Bounce_No >50 0%R Bounce_No
 Lateral PA/ER/OB Squeeze = No ApplyToPA_No ApplyToER_No ApplyToOB_No
@@ -12930,7 +12932,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 219 yds Landing Zone 1:  171 yds to Green Center LZLoc,36.10281508225303,-115.3510599063676,3063,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 390 CalcRemaining 171 ActualShot 219 Remaining 171 ChoiceLayup 0 FullShotDist 219
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 38 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 28 50%T Bounce_No >50 0%R Bounce_No
@@ -12963,7 +12965,7 @@ Next Landing Zone Not Visible = No
 Shot 1, 150 yds Landing Zone 1:  240 yds to Green Center LZLoc,36.10340459680459,-115.35123321288,3049,kml LZLoc,,,,GPS
 Type of Position Change = None
 Layup = DistAtStart 390 CalcRemaining 240 ActualShot 150 Remaining 240 ChoiceLayup 0 FullShotDist 150
-Roll = Level Slope_None FirmSoft_No
+Roll = Level Slope_None FirmSoft_No 
 Fairway = 37 WidthReduced_No BounceIn_No PoorTurf_No EasyRough_No ObstructedByDogleg_No OnGreen_No
 R&R = RoughInconsistent_No Mounds_No
 Lateral ER = 44 50%T Bounce_No >50 0%R Bounce_No
@@ -13012,7 +13014,7 @@ Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
 Pivot 2 to Pivot 3 =  ,KeyIn
 Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
 Tee or Pivot to Green Center =  ,KeyIn
-Horizontal Length = 0
+Horizontal Length = Fix
 
 Start = Men Scratch
 End = Men Scratch
