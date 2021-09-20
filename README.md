@@ -19,3 +19,4 @@ W10CRA has a UI change, fixes and other improvements.
 
 Both W10CRA and MobileCRA are built and available on Visual Studio App Center. (GitHub Login)
 
+Note: As of 9/20/2021 the name W10CRA in the Apps was changed to WinCRA.
