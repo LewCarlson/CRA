@@ -5,7 +5,7 @@ Rater = LewCa On 12/11/2022 11:58:31 AM
 Course Setup by LewCa On 11/17/2022 6:41:10 PM
 
 Start = Course Info
-Course Name = TestSouthShore
+Course Name = DemoRated
 Address = 100 Strada Dr. Circolo Henderson NV 89011
 Phone Number = 702-856-8400
 Date Measured = 11/17/2022
