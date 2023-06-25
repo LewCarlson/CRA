@@ -6,15 +6,15 @@ calculates obstacle values using the rating tables and produces the results in a
 
 This App is made up of 3 parts all use Visual Studio:
 
-  W10CRA:            Visual Basic UI + Visual Basic Backing Logic  
-  CRAClassLibrary:   W10CRA Visual Basic Backing Logic (.Net Standard)  
+  WinCRA:            Visual Basic UI + Visual Basic Backing Logic  
+  CRAClassLibrary:   WinCRA Visual Basic Backing Logic (.Net Standard)  
   MobileCRA:         Xamarin UI in Xaml and C# + CRAClassLibrary  
 
-Any change to the W10CRA "Backing Logic" is added to the CRAClassLibrary the result is included in MobileCRA resources.
+Any change to the WinCRA "Backing Logic" is added to the CRAClassLibrary the result is included in MobileCRA resources.
 
-As of 5/9/2021 MobileCRA is only available on Android. Don't have access to an Apple machine at this time. 
+As of 6/24/2023 MobileCRA is only available on Android. Have no access to an Apple machine at this time. 
 
 An older version of Windows CRA is in the Microsoft Store accessed only with a direct link (at request of USGA).
-W10CRA has a UI change, fixes and other improvements.
+WinCRA has a UI change, two Rating modes: Orginal and Map Assisted, fixes and other improvements.
 
-Note: As of 9/20/2021 the name W10CRA in the Apps was changed to WinCRA.
+
