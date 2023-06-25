@@ -15,6 +15,6 @@ Any change to the WinCRA "Backing Logic" is added to the CRAClassLibrary the res
 As of 6/24/2023 MobileCRA is only available on Android. Have no access to an Apple machine at this time. 
 
 An older version of Windows CRA is in the Microsoft Store accessed only with a direct link (at request of USGA).
-WinCRA has a UI change, two Rating modes: Orginal and Map Assisted, fixes and other improvements.
+Latest WinCRA has a UI change, two Rating modes: Orginal and Map Assisted, fixes and other improvements.
 
 
